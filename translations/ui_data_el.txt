@@ -1,0 +1,3379 @@
+# Ελληνικά (Greek)
+
+#Menu
+User = Χρήστης
+Join... = Εγγραφή...
+Login... = Σύνδεση...
+Log in = Σύνδεση
+Logout = Αποσύνδεση
+Change password... = Αλλαγή κωδικού...
+User Preference = Προτιμήσεις χρήστη
+System Settings... = Ρυθμίσεις συστήματος...
+System Settings = Ρυθμίσεις συστήματος
+Crash = Σφάλμα
+Invite friends... = Προσκαλέστε φίλους...
+Language = Γλώσσα
+Language Setting = Ρύθμιση γλώσσας
+
+Document Recovery = Ανάκτηση Εγγράφου  
+Your Preferences Information = Πληροφορίες Προτιμήσεών σας  
+File = Αρχείο  
+New = Νέο  
+Project... = Έργο...  
+Schematic = Σχεδιάγραμμα  
+Schematic-Simulation = Σχηματική-Προσομοίωση  
+Spice Symbol = Σύμβολο SPICE  
+Spice Subckt = Υποκύκλωμα SPICE  
+spicePre = Προετοιμασία SPICE  
+PCB = Τυπωμένο Κύκλωμα (PCB)  
+Schematic Module = Μονάδα Σχεδιαγράμματος  
+PCB Module = Μονάδα PCB  
+Save... = Αποθήκευση...  
+Save As... = Αποθήκευση ως...  
+Save As Module... = Αποθήκευση ως Μονάδα...  
+Print = Εκτύπωση  
+Export Document = Εξαγωγή Εγγράφου  
+LTspice... = LTspice...  
+Eagle... = Eagle...  
+Altium... = Altium...  
+Cadence... = Cadence...  
+Pads... = Pads...  
+DXF = DXF  
+Import = Εισαγωγή  
+
+
+Edit = Επεξεργασία  
+Undo = Αναίρεση  
+Redo = Επανάληψη  
+Cut = Αποκοπή  
+Copy = Αντιγραφή  
+Paste = Επικόλληση  
+Select = Επιλογή  
+Delete = Διαγραφή  
+Clear All = Εκκαθάριση Όλων  
+Move = Μετακίνηση  
+Drag = Σύρσιμο  
+Bring to Front = Φέρτε Μπροστά  
+Send to Back = Στείλτε Πίσω  
+Align = Στοίχιση  
+Align Left = Στοίχιση Αριστερά  
+Align Right = Στοίχιση Δεξιά  
+Align Top = Στοίχιση Πάνω  
+Align Bottom = Στοίχιση Κάτω  
+Align Horizontal Centers = Στοίχιση Οριζόντιων Κέντρων  
+Align Vertical Centers = Στοίχιση Κατακόρυφων Κέντρων  
+Distribute Horizontally = Κατανομή Οριζόντια  
+Distribute Vertically = Κατανομή Κατακόρυφα  
+Distribute Left Edges Equidistantly = Κατανομή Αριστερών Άκρων Ισομερώς  
+Distribute Top Edges Equidistantly = Κατανομή Πάνω Άκρων Ισομερώς  
+Align Grid = Στοίχιση Πλέγματος  
+Rotate = Περιστροφή  
+Rotate Left = Περιστροφή Αριστερά  
+Rotate Right = Περιστροφή Δεξιά  
+Flip Horizontal = Αναστροφή Οριζόντια  
+Flip Vertical = Αναστροφή Κατακόρυφα  
+Rotate and Flip = Περιστροφή και Αναστροφή  
+Group/Ungroup Symbol... = Ομαδοποίηση/Αποομαδοποίηση Συμβόλου...  
+
+[menu_project]
+View = Προβολή
+[/menu_project]
+Find = Εύρεση  
+Zoom In = Μεγέθυνση  
+Zoom Out = Σμίκρυνση  
+Fit in Window = Προσαρμογή στο Παράθυρο  
+Refresh = Ανανέωση  
+Snap = Προσκόλληση  
+Cross Cursor = Σταυροειδής Δρομέας  
+Toolbars = Γραμμές Εργαλείων  
+Drawing Tools = Εργαλεία Σχεδίασης  
+Wiring Tools = Εργαλεία Καλωδίωσης  
+Power Objects = Αντικείμενα Ισχύος  
+PCB Tools = Εργαλεία PCB  
+Footprint Tools = Εργαλεία Ιχνών  
+Layers Tool = Εργαλείο Στρώσεων  
+Layer Manager = Διαχείριση Στρώσεων  
+Enable and Show All Layers = Ενεργοποίηση και Εμφάνιση Όλων των Στρώσεων  
+Net Visible = Ορατό Δίκτυο  
+Auto = Αυτόματο  
+Digital Objects = Ψηφιακά Αντικείμενα  
+Tools = Εργαλεία  
+Arc Center = Κέντρο Τόξου  
+Arc Type = Τύπος Τόξου  
+Center Point Arc = Τόξο Κεντρικού Σημείου  
+Two-point Arc = Τόξο Δύο Σημείων  
+
+Place = Τοποθέτηση  
+Drawing Tools = Εργαλεία Σχεδίασης  
+Arc = Τόξο  
+Elliptical Arc = Ελλειπτικό Τόξο  
+Ellipse = Έλλειψη  
+Circle = Κύκλος  
+Pie = Τμήμα Κύκλου  
+Line = Γραμμή  
+Polyline = Πολύγραμμο  
+Rectangle = Ορθογώνιο  
+Rectangular = Ορθογώνιο Σχήμα  
+The rectangle does not support non-90 degree rotation. Please use Solid Region instead. = Το ορθογώνιο δεν υποστηρίζει περιστροφή μη 90 μοιρών. Παρακαλώ χρησιμοποιήστε αντ' αυτού τη Συμπαγή Περιοχή.  
+
+Rect = Ορθογώνιο  
+Round Rectangle = Στρογγυλεμένο Ορθογώνιο  
+Polygon = Πολύγωνο  
+Bezier = Καμπύλη Bézier  
+Path = Διαδρομή  
+Graphic = Γραφικό  
+Bus = Δίαυλος  
+Bus Entry = Είσοδος Δίαυλου  
+Junction = Διακλάδωση  
+Net Port = Θύρα Δικτύου  
+Voltage Probe = Ανιχνευτής Τάσης  
+Power Port = Θύρα Τροφοδοσίας  
+Wire = Καλώδιο  
+Annotation = Σχόλιο  
+Track = Διαδρομή  
+Image = Εικόνα  
+Arrow Head = Κεφαλή Βέλους  
+Arrowhead = Κεφαλή Βέλους  
+Arrow = Βέλος  
+No Connect Flag = Σημείο Μη Σύνδεσης  
+Place = Τοποθέτηση  
+Pin = Ακροδέκτης  
+Lock Selected Objects = Κλείδωμα Επιλεγμένων Αντικειμένων  
+
+Miscellaneous = Διάφορα
+Find Component = Εύρεση Εξαρτήματος
+Component = Εξάρτημα
+Footprint... = Ίχνος...
+This component is deleted! = Το εξάρτημα διαγράφηκε!
+Convert = Μετατροπή
+Convert Schematic to PCB = Μετατροπή Σχεδιαγράμματος σε PCB
+The component ID will be reset according to the component prefix, this operation will clear Undo histories. Please notice: = Το ID του εξαρτήματος θα επαναφερθεί σύμφωνα με το πρόθεμα του, η ενέργεια θα διαγράψει το ιστορικό αναίρεσης. Προσοχή:
+Please make sure the component prefixes of the schematic and PCB are corresponding = Ελέγξτε αν τα πρόθεματα των εξαρτημάτων του σχεδιαγράμματος και του PCB ταιριάζουν
+Please reset the component ID of corresponding schematic or corresponding PCB too = Επαναφέρετε το ID του εξαρτήματος στο αντίστοιχο σχέδιο ή PCB
+Do you want to continue? = Θέλετε να συνεχίσετε;
+Reset Component Unique ID = Επαναφορά Μοναδικού ID Εξαρτήματος
+Component ID reset successfully! = Το ID του εξαρτήματος επαναφέρθηκε επιτυχώς!
+Convert to PCB = Μετατροπή σε PCB
+Update PCB = Ενημέρωση PCB
+Shortcut Keys Setting = Ρυθμίσεις Συντομεύσεων
+Edit Symbol... = Επεξεργασία Συμβόλου...
+Highlight Net... = Επισημάνετε Δίκτυο...
+Simulate = Προσομοίωση
+Simulation = Προσομοίωση
+Standard Mode = Κανονική Λειτουργία
+Simulation Mode = Λειτουργία Προσομοίωσης
+Change to Standard Mode = Αλλαγή σε Κανονική Λειτουργία
+Change to Simulation Mode = Αλλαγή σε Λειτουργία Προσομοίωσης
+Welcome to Use JLCEDA = Καλώς ήρθατε στο JLCEDA
+Welcome to Use EasyEDA = Καλώς ήρθατε στο EasyEDA
+Enable Education Edition Features for Free >>> = Ενεργοποιήστε δωρεάν τα χαρακτηριστικά της Εκπαιδευτικής Έκδοσης >>>
+Quick Start = Γρήγορη Έναρξη
+More Help = Περισσότερη Βοήθεια
+Explore = Εξερευνήστε
+Message = Μήνυμα
+[start]
+Example = Παράδειγμα
+Forum = Φόρουμ
+Tutorials = Μαθήματα
+Videos = Βίντεο
+[/start]
+Custom Data = Προσαρμοσμένα Δεδομένα
+JLCEDA = JLCEDA
+
+Copy Result Image = Αντιγραφή Εικόνας Αποτελέσματος  
+Export Result Image = Εξαγωγή Εικόνας Αποτελέσματος  
+Simulation Result = Αποτέλεσμα Προσομοίωσης  
+Simulation Results... = Αποτελέσματα Προσομοίωσης...  
+Simulate this Sheet = Προσομοίωση Αυτού του Φύλλου  
+Simulate this Project = Προσομοίωση Αυτού του Έργου  
+Non-simulation mode, please switch to the simulation mode first and then run = Λειτουργία χωρίς προσομοίωση, παρακαλώ αλλάξτε σε λειτουργία προσομοίωσης και έπειτα εκτελέστε  
+Run the Document = Εκτέλεση Εγγράφου  
+Run the Project... = Εκτέλεση Έργου...  
+Netlist for Document = Κατάλογος Δικτύου για Έγγραφο  
+Netlist for Project = Κατάλογος Δικτύου για Έργο  
+LTspice for This Sheet... = LTspice για Αυτό το Φύλλο...  
+Spice for this Project... = Spice για Αυτό το Έργο...  
+Protel/Altium for PCB... = Protel/Altium για PCB...  
+PADS for PCB... = PADS για PCB...  
+FreePCB for PCB... = FreePCB για PCB...  
+Eagle for PCB... = Eagle για PCB...  
+Kicad for PCB... = Kicad για PCB...  
+OrCAD for PCB... = OrCAD για PCB...  
+BOM report... = Αναφορά BOM...  
+BOM for Document... = BOM για Έγγραφο...  
+BOM for Project... = BOM για Έργο...  
+Pin Manager... = Διαχειριστής Ακροδεκτών...  
+Spice Model... = Μοντέλο Spice...  
+Layer Manager... = Διαχείριση Στρώσεων...  
+Net Color... = Χρώμα Δικτύου...  
+Design Rule... = Κανόνας Σχεδίασης...  
+Copper Area = Περιοχή Χαλκού  
+Rebuild Selected = Ανακατασκευή Επιλεγμένων  
+Rebuild All = Ανακατασκευή Όλων  
+Copper Area Manager... = Διαχείριση Περιοχής Χαλκού...  
+Export Pick and Place File = Εξαγωγή Αρχείου Pick and Place  
+Measure Distance = Μέτρηση Απόστασης  
+Set Canvas Origin by Mouse Location = Ρύθμιση Αφετηρίας Καμβά με Θέση Ποντικιού  
+Generates Pick and Place File = Δημιουργεί Αρχείο Pick and Place  
+Unroute All = Αφαίρεση Όλων  
+Auto Route = Αυτόματη Διαδρομή  
+Export Autorouter File(DSN) = Εξαγωγή Αρχείου Αυτόματου Δρομολογητή (DSN)  
+Import Autorouter Session File(SES) = Εισαγωγή Αρχείου Συνεδρίας Αυτόματου Δρομολογητή (SES)  
+Autorouter File(DSN) = Αρχείο Αυτόματου Δρομολογητή (DSN)  
+Autorouter Session File(SES) = Αρχείο Συνεδρίας Αυτόματου Δρομολογητή (SES)  
+Terminate Routing Automatically = Αυτόματη Διακοπή Δρομολόγησης  
+Delete Segments = Διαγραφή Τμημάτων  
+Unroute Connections = Αφαίρεση Συνδέσεων  
+Unroute Connection = Αφαίρεση Σύνδεσης  
+Unroute Nets = Αφαίρεση Δικτύων  
+Select = Επιλογή  
+Segments = Τμήματα  
+Connection = Σύνδεση  
+Net = Δίκτυο  
+Apply Design Rule While Routing and Auto Placing Via = Εφαρμογή Κανόνα Σχεδίασης Κατά τη Δρομολόγηση και Αυτόματη Τοποθέτηση Via  
+
+Add SubPart = Προσθήκη Υπομέρους
+Annotate... = Σχολιασμός...
+Config = Ρύθμιση
+
+Help = Βοήθεια  
+About = Σχετικά  
+Online Chat = Διαδικτυακή Συνομιλία  
+Shortcut Keys = Συντομεύσεις Πληκτρολογίου  
+FAQ = Συχνές Ερωτήσεις  
+Tutorials = Μαθήματα  
+Basic Tutorials = Βασικά Μαθήματα  
+Video Tutorials = Βίντεο Μαθήματα  
+Essential Check = Βασικός Έλεγχος  
+Simulation Tutorials = Μαθήματα Προσομοίωσης  
+Updated Instructions = Ενημερωμένες Οδηγίες  
+Open File Format = Ανοιχτή Μορφή Αρχείου  
+About Upgrade = Σχετικά με την Αναβάθμιση  
+User Forum = Φόρουμ Χρηστών  
+Feature Request = Αίτημα Χαρακτηριστικού  
+Feature Requests = Αιτήματα Χαρακτηριστικών  
+Bug Report = Αναφορά Σφάλματος  
+Bug Reports = Αναφορές Σφαλμάτων  
+Tips & Skill = Συμβουλές & Δεξιότητες  
+Ask for Help = Ζητήστε Βοήθεια  
+Schematic Capture = Καταγραφή Σχεδιαγράμματος  
+Spice Simulation = Προσομοίωση Spice  
+Non-simulation mode = Λειτουργία χωρίς Προσομοίωση  
+PCB Layout = Σχεδιασμός PCB  
+General Discussion = Γενική Συζήτηση  
+More Information = Περισσότερες Πληροφορίες  
+Privacy Policy = Πολιτική Απορρήτου  
+#Terms of Use & Privacy Policy = Όροι Χρήσης & Πολιτική Απορρήτου  
+Terms of Service = Όροι Παροχής Υπηρεσιών  
+Plans and Pricing = Σχέδια και Τιμολόγηση  
+Help Translate = Βοήθεια με Μετάφραση  
+About Us = Σχετικά με Εμάς  
+Contact Us = Επικοινωνία  
+Change History = Ιστορικό Αλλαγών  
+Join Us = Εγγραφείτε  
+#PCB Fabrication Capabilities = Δυνατότητες Κατασκευής PCB  
+PCB Fabrication = Κατασκευή PCB  
+Order Capabilities = Δυνατότητες Παραγγελίας  
+Order Price = Τιμή Παραγγελίας  
+Order Essential Check = Βασικός Έλεγχος Παραγγελίας  
+Order FAQ = Συχνές Ερωτήσεις Παραγγελίας  
+Order Process = Διαδικασία Παραγγελίας  
+Full Screen = Πλήρης Οθόνη  
+
+Support = Υποστήριξη  
+[leftNavTabs]  
+Support = Υποστήριξη  
+[/leftNavTabs]  
+Historical Records... = Ιστορικά Αρχεία...  
+Extensions = Επεκτάσεις  
+Order PCB... = Παραγγελία PCB...  
+Import Changes = Εισαγωγή Αλλαγών  
+Press {0}F11{1} to switch to full screen. = Πατήστε {0}F11{1} για μετάβαση σε πλήρη οθόνη.  
+Delete Selected = Διαγραφή Επιλεγμένων  
+Simulate... = Προσομοίωση...  
+Config = Ρύθμιση  
+Terms of Service & Privacy Policy = Όροι Παροχής Υπηρεσιών & Πολιτική Απορρήτου  
+Help Topics = Θέματα Βοήθειας  
+3D Model(obj) = 3D Μοντέλο (obj)  
+3D Model(step) = 3D Μοντέλο (step)  
+SVG Source... = Πηγή SVG...  
+File Source = Πηγή Αρχείου  
+Group These Items as a Symbol = Ομαδοποιήστε Αυτά τα Στοιχεία ως Σύμβολο  
+Group These Items as a Footprint = Ομαδοποιήστε Αυτά τα Στοιχεία ως Ίχνος  
+Set Canvas Origin = Ορισμός Αφετηρίας Καμβά  
+Document Setting = Ρύθμιση Εγγράφου  
+Sheet Properties = Ιδιότητες Φύλλου  
+Set Board Outline = Ορισμός Περιγράμματος Πίνακα  
+Teardrop... = Σχηματισμός Σταγόνας...  
+Panelize... = Πανομοιότυπο...  
+Check Dimension = Έλεγχος Διάστασης  
+Smart Dimension = Έξυπνη Διάσταση  
+Footprint Wizard = Οδηγός Ίχνους  
+Footprint Wizard... = Οδηγός Ίχνους...  
+Select package type = Επιλογή τύπου πακέτου  
+Smart Dimension Properties = Ιδιότητες Έξυπνης Διάστασης  
+Global Delete = Γενική Διαγραφή  
+Cross Probe = Διέλευση Δοκιμής  
+Cross Probe and Place = Διέλευση Δοκιμής και Τοποθέτηση  
+Paper Size = Μέγεθος Χαρτιού  
+Register = Εγγραφή  
+User Center = Κέντρο Χρηστών
+
+By Mouse Location = Από Θέση Ποντικιού  
+Set Coordinate = Ορισμός Συντεταγμένων  
+By Coordinates... = Από Συντεταγμένες...  
+By Center of Pads = Από Κέντρο Ακροδεκτών  
+By Center Grid of Symbols = Από Κέντρο Πλέγματος Συμβόλων
+
+#Schematic Canvas Properties
+Properties = Ιδιότητες
+Apply = Εφαρμογή
+Save as default = Αποθήκευση ως προεπιλογή
+Canvas Properties = Ιδιότητες Καμβά
+Width = Πλάτος
+Height = Ύψος
+Background = Υπόβαθρο
+Visible Grid = Ορατό Πλέγμα
+Grid Visible = Ορατό Πλέγμα
+Real-Time Track Length = Μήκος Διόδου σε Πραγματικό Χρόνο
+Display Real-Time Track Length = Εμφάνιση Μήκους Διόδου σε Πραγματικό Χρόνο
+Grid Color = Χρώμα Πλέγματος
+Grid Size = Μέγεθος Πλέγματος
+Grid Style = Στυλ Πλέγματος
+Grid.Line Width = Πλάτος Γραμμής Πλέγματος
+Grid.Line Spacing = Απόσταση Γραμμών Πλέγματος
+Copper to Board Outline = Χαλκός στο Περίγραμμα Πίνακα
+Improve Fabrication = Βελτίωση Κατασκευής
+Spoke Width = Πλάτος Ράβδου
+Stroke Color = Χρώμα Περιγράμματος
+Stroke Width = Πλάτος Περιγράμματος
+Stroke Style = Στυλ Περιγράμματος
+Fill Color = Χρώμα Γέμισης
+Selected Objects = Επιλεγμένα Αντικείμενα
+Frame Size = Μέγεθος Πλαισίου
+Alt Snap = Εναλλακτικό Σπρώξιμο
+Snap size when pressing the Alt key = Μέγεθος Σπρώξιμου όταν πατάτε το πλήκτρο Alt
+Prefix Start = Πρόθεμα Αρχής
+
+#Text Properties  
+Text Properties = Ιδιότητες Κειμένου  
+Text = Κείμενο  
+Color = Χρώμα  
+Font Family = Οικογένεια Γραμματοσειράς  
+Font Size = Μέγεθος Γραμματοσειράς  
+Font Weight = Βάρος Γραμματοσειράς  
+Font Style = Στυλ Γραμματοσειράς  
+Text Type = Τύπος Κειμένου  
+Text Anchor = Άγκυρα Κειμένου  
+Baseline = Βασική Γραμμή  
+(Auto) = (Αυτόματα)  
+(auto) = (αυτόματα)  
+start = αρχή  
+middle = μέσο  
+end = τέλος  
+inherit = κληρονομεί  
+comment = σχόλιο  
+spice = spice  
+normal = κανονικό  
+italic = πλάγιο  
+Default = Προεπιλογή  
+Add = Προσθήκη  
+bold = έντονο  
+bolder = πιο έντονο  
+lighter = πιο ελαφρύ  
+Failed to parse the font file: {name} = Αποτυχία ανάλυσης αρχείου γραμματοσειράς: {name}  
+Please select a font file of ttf or woff format. = Επιλέξτε ένα αρχείο γραμματοσειράς σε μορφή ttf ή woff.  
+Add font success: {name} = Επιτυχής προσθήκη γραμματοσειράς: {name}  
+Failed to add font: {name} = Αποτυχία προσθήκης γραμματοσειράς: {name}  
+Add Font = Προσθήκη Γραμματοσειράς  
+Failed to parse cached font: {name} = Αποτυχία ανάλυσης αποθηκευμένης γραμματοσειράς: {name}  
+Load cached fonts fail! = Αποτυχία φόρτωσης αποθηκευμένων γραμματοσειρών!
+
+#Stroke  
+Stroke Color = Χρώμα Περιγράμματος  
+Stroke Width = Πλάτος Περιγράμματος  
+Stroke Style = Στυλ Περιγράμματος  
+Fill Color = Χρώμα Γέμισης  
+X Radius = Ακτίνα X  
+Y Radius = Ακτίνα Y
+
+#spice  
+Switch mode = Εναλλαγή λειτουργίας  
+The current documents will be closed, and reopen after switching mode, do you want to continue? = Τα τρέχοντα έγγραφα θα κλείσουν και θα ανοιχτούν ξανά μετά την εναλλαγή λειτουργίας, θέλετε να συνεχίσετε;  
+PCB related documents are not allowed in emulation mode = Τα έγγραφα που σχετίζονται με PCB δεν επιτρέπεται στην λειτουργία προσομοίωσης  
+Please change the editor to "Simulation" mode first at the top left corner. = Παρακαλώ αλλάξτε το επεξεργαστή σε λειτουργία "Προσομοίωσης" πρώτα στην επάνω αριστερή γωνία.  
+Please change the editor to "Standard" mode first at the top left corner. = Παρακαλώ αλλάξτε το επεξεργαστή σε λειτουργία "Κανονική" πρώτα στην επάνω αριστερή γωνία.  
+Common = Κοινό  
+spice.open = spice.άνοιγμα  
+spice.close = spice.κλείσιμο  
+Sources = Πηγές  
+Instruments/Meters = Όργανα/Μετρητές  
+Transistors = Τρανζίστορ  
+Digital Circuits = Ψηφιακά Κυκλώματα  
+Operational Amplifier = Ενισχυτής Λειτουργίας  
+multimeter = Πολύμετρο  
+multimeter Settings = Ρυθμίσεις Πολύμετρου  
+FunctionGenerator Settings = Ρυθμίσεις Γεννήτριας Λειτουργίας  
+Voltage Source Settings = Ρυθμίσεις Πηγής Τάσης  
+Current Source Settings = Ρυθμίσεις Πηγής Ρεύματος  
+Powersw Settings = Ρυθμίσεις Διακόπτη Ισχύος  
+Resistor Settings = Ρυθμίσεις Αντιστάτη  
+Capacitor Settings = Ρυθμίσεις Πυκνωτή  
+Diode Settings = Ρυθμίσεις Δίοδου  
+voltPowersw Settings = Ρυθμίσεις Διακόπτη Τάσης
+Inductor Settings = Ρυθμίσεις Inductor
+VCVS Settings = Ρυθμίσεις VCVS
+CCCS Settings = Ρυθμίσεις CCCS
+VCCS Settings = Ρυθμίσεις VCCS
+CCVS Settings = Ρυθμίσεις CCVS
+JFET Settings = Ρυθμίσεις JFET
+FET Settings = Ρυθμίσεις FET
+Transmission Line Settings = Ρυθμίσεις Transmission Line
+Oscilloscope Settings = Ρυθμίσεις Oscilloscope
+XFMR Settings = Ρυθμίσεις XFMR
+LOGIC Settings = Ρυθμίσεις LOGIC
+LOGICSTATE Settings = Ρυθμίσεις LOGICSTATE
+DIGITALCLOCK Settings = Ρυθμίσεις DIGITALCLOCK
+Potentiometer Settings = Ρυθμίσεις Potentiometer
+MUTUAL_INDUCTORS Settings = Ρυθμίσεις MUTUAL_INDUCTORS
+NE555 Settings = Ρυθμίσεις NE555
+THREE_PHASE Settings = Ρυθμίσεις THREE_PHASE
+Logic_Probe Settings = Ρυθμίσεις Logic_Probe
+78XX Settings = Ρυθμίσεις 78XX
+79XX Settings = Ρυθμίσεις 79XX
+OPAMP5PEE Settings = Ρυθμίσεις OPAMP5PEE
+OPAMP5PEECN Settings = Ρυθμίσεις OPAMP5PEECN
+OPAMP3PEE Settings = Ρυθμίσεις OPAMP3PEE
+OPAMP3PEECN Settings = Ρυθμίσεις OPAMP3PEECN
+DELAY_FUSE Settings = Ρυθμίσεις DELAY_FUSE
+Ratio = Αναλογία
+K[%] = K[%]  
+Model = Μοντέλο  
+States = Καταστάσεις  
+Voltage[V] = Τάση[V]  
+Voltage gain[V/V] = Κέρδος Τάσης[V/V]  
+Current gain[A/A] = Κέρδος Ρεύματος[A/A]  
+Transconductance[Mho] = Μεταγωγιμότητα[Mho]  
+Transresistance[Ω] = Μετααντίσταση[Ω]  
+Voltage Source Type = Τύπος Πηγής Τάσης  
+Current Source Type = Τύπος Πηγής Ρεύματος  
+multimeter type = Τύπος Πολύμετρου  
+power type = Τύπος Ισχύος  
+Voltmeter Resistance(R)(Ω) = Αντίσταση Βολτόμετρου(R)(Ω)  
+Amperometer Resistance(R)(Ω) = Αντίσταση Αμπερόμετρου(R)(Ω)  
+mu.V = mu.V  
+mu.A = mu.A  
+Sine Wave = Ημιτονοειδές Κύμα  
+Triangular Wave = Τριγωνικό Κύμα  
+Rectangular Wave = Ορθογώνιο Κύμα  
+AC = Εναλλασσόμενο Ρεύμα  
+DC = Σταθερό Ρεύμα  
+SINE = ΗΜΙΤΟΝΙΟ  
+PULSE = Παλμός  
+EXP = ΕΚΘΕΤΙΚΟ  
+SFFM = SFFM  
+PWL = PWL  
+B.spice = B.spice  
+DC Value[V] = Τιμή DC[V]  
+DC Value[A] = Τιμή DC[A]  
+DC offset[V] = Αντιστροφή DC[V]  
+DC offset[A] = Αντιστροφή DC[A]  
+Amplitude[V] = Πλάτος[V]  
+Amplitude[A] = Πλάτος[A]  
+Freq[Hz] = Συχνότητα[Hz]  
+Theta[1/s] = Θήτα[1/s]  
+Tdelay[s] = Καθυστέρηση[T]  
+Phi[deg] = Φι[μοί]  
+Tperiod[s] = Περίοδος[T]  
+Ton[s] = Χρόνος Ανόδου[T]  
+Tfall[s] = Χρόνος Καθόδου[T]  
+Trise[s] = Χρόνος Ανόδου[Τ]  
+Von[V] = Von[V]  
+Von[A] = Von[A]
+Vinitial[V] = Vinitial[V]  
+Vinitial[A] = Vinitial[A]  
+Vpulsed[V] = Vpulsed[V]  
+Vpulsed[A] = Vpulsed[A]  
+Rise Delay[s] = Καθυστέρηση Ανόδου[s]  
+Rise Tau[s] = Χρόνος[s]  
+Fall Delay[s] = Καθυστέρηση Καθόδου[s]  
+Fall Tau[s] = Χρόνος Καθόδου[s]  
+Carrier Freq[Hz] = Συχνότητα Φορέα[Hz]  
+Modulation Index = Δείκτης Διαμόρφωσης  
+Signal Freq[Hz] = Συχνότητα Σήματος[Hz]  
+Time[s] = Χρόνος[s]  
+Value[V] = Τιμή[V]  
+Value[A] = Τιμή[A]  
+Waveforms = Κύματα  
+Duty cycle[%] = Κύκλος Εργασίας[%]  
+Amplitude[Vp] = Πλάτος[Vp]  
+Offset[V] = Αντιστροφή[V]  
+Rise/Fall Time[sec] = Χρόνος Άνοδος/Καθόδου[sec]  
+Capacitance[F] = Χωρητικότητα[F]  
+sComponent = sΣτοιχείο  
+Inductance[H] = Αυτεπαγωγή[H]  
+Gbw = Gbw  
+Slewrate = Ρυθμός Ανόδου  
+Avol = Avol  
+Rout(Ω) = Rout(Ω)  
+Rin(Ω) = Rin(Ω)  
+Ibias[A] = Ibias[A]  
+Inhi[V] = Inhi[V]  
+Inlo[V] = Inlo[V]  
+Isc[A] = Isc[A]  
+Outhi[V] = Outhi[V]  
+Outlo[V] = Outlo[V]  
+Vabsmax[V] = Vabsmax[V]  
+Vmin[V] = Vmin[V]  
+Iq[A] = Iq[A]  
+Cin[F] = Cin[F]  
+high = υψηλό  
+low = χαμηλό
+Oscilloscope = Οσκοσιλόσκοπιο
+Logic Analyzer = Αναλυτής Λογικής
+Channel_A = Channel_A
+Channel_B = Channel_B
+Channel A = Channel A
+Channel B = Channel B
+Time = Χρόνος
+Reverse = Αντίστροφο
+Simulation file exceed = Το αρχείο προσομοίωσης υπερβαίνει το όριο
+The simulation file is too large and has been stopped for performance reasons. = Το αρχείο προσομοίωσης είναι πολύ μεγάλο και έχει σταματήσει για λόγους απόδοσης.
+Timebase = Βάση χρόνου
+Scale: = Κλίμακα:
+X pos.(Div): = X pos.(Div):
+Y pos.(Div): = Y pos.(Div):
+View meter... = Προβολή μετρητή...
+The circuit has components without simulation model: = Το κύκλωμα έχει εξαρτήματα χωρίς μοντέλο προσομοίωσης:
+Your simulation interval is too short to simulate, please wait 5 seconds later and try again; if still show this message, may be you simulated over 500 times the maximum simulation times per day. = Το διάστημα προσομοίωσης είναι πολύ μικρό για να προσομοιωθεί. Περιμένετε 5 δευτερόλεπτα και προσπαθήστε ξανά. Αν συνεχίσετε να βλέπετε αυτό το μήνυμα, ίσως έχετε ξεπεράσει τις 500 προσομοιώσεις την ημέρα.
+Resistor1_US = Resistor1_US
+Resistor1_EU/IEC = Resistor1_EU/IEC
+Resistor1_3D = Resistor1_3D
+Capacitor1_US = Capacitor1_US
+Capacitor1_EU/IEC = Capacitor1_EU/IEC
+Capacitor1_3D = Capacitor1_3D
+Rheostat_US = Rheostat_US
+Rheostat_EU/IEC = Rheostat_EU/IEC
+Rheostat_3D = Rheostat_3D
+Capacitor_Electrolytic_US = Capacitor_Electrolytic_US
+Capacitor_Electrolytic_EU/IEC = Capacitor_Electrolytic_EU/IEC
+Capacitor_Electrolytic_3D = Capacitor_Electrolytic_3D
+Inductor_US = Inductor_US
+Inductor_EU/IEC = Inductor_EU/IEC
+Inductor_3D = Inductor_3D
+Resistor2_US = Resistor2_US
+Resistor2_EU/IEC = Resistor2_EU/IEC
+Resistor2_3D = Resistor2_3D
+Multimeter = Πολύμετρο
+Multimeter_3D = Multimeter_3D
+Oscilloscope = Oscilloscope
+sOscilloscope_3D = sOscilloscope_3D
+Signal_Generator = Signal_Generator
+Signal Generator_3D = Signal Generator_3D
+Wattmeter = Wattmeter
+Wattmeter_3D = Wattmeter_3D
+NSSWS1080T_3D = NSSWS1080T_3D
+Voltage_Source_VDC = Voltage_Source_VDC
+Voltage_Source_VSin = Voltage_Source_VSin
+Voltage_Source_VPULSE = Voltage_Source_VPULSE
+Voltage_Source_VEXP = Voltage_Source_VEXP
+Voltage_Source_VSFFM = Voltage_Source_VSFFM
+Voltage_Source_VPWL = Voltage_Source_VPWL
+Voltage_Source_V_Behavioral_Source = Voltage_Source_V_Behavioral_Source
+Current_Source_IDC = Current_Source_IDC
+Current_Source_ISin = Current_Source_ISin
+Current_Source_IPULSE = Current_Source_IPULSE
+Current_Source_IEXP = Current_Source_IEXP
+Current_Source_ISFFM = Current_Source_ISFFM
+Current_Source_IPWL = Current_Source_IPWL
+Current_Source_I_Behavioral_Source = Current_Source_I_Behavioral_Source
+CCCS_1 = CCCS_1
+CCCS_2 = CCCS_2
+CCVS_1 = CCVS_1
+CCVS_2 = CCVS_2
+VCCS = VCCS
+VCVS = VCVS
+Three_Phase_Wye_Load = Three_Phase_Wye_Load
+Three_Phase_Delta_Load = Three_Phase_Delta_Load
+78XX = 78XX
+79XX = 79XX
+555 = 555
+555_3D = 555_3D
+Transformer_US = Transformer_US
+Transformer_EU/IEC = Transformer_EU/IEC
+Transformer_Center_Tapped_US = Transformer_Center_Tapped_US
+Transformer_Center_Tapped_EU/IEC = Transformer_Center_Tapped_EU/IEC
+Mutual_Inductor_US = Mutual_Inductor_US
+Mutual_Inductor_EU/IEC = Mutual_Inductor_EU/IEC
+Mutual_Inductor2_US = Mutual_Inductor2_US
+Mutual_Inductor2_EU/IEC = Mutual_Inductor2_EU/IEC
+OR2EE_US = OR2EE_US
+OR3EE_US = OR3EE_US
+OR4EE_US = OR4EE_US
+OR2EE_CN = OR2EE_CN
+OR3EE_CN = OR3EE_CN
+OR4EE_CN = OR4EE_CN
+NOR2EE_US = NOR2EE_US
+NOR3EE_US = NOR3EE_US
+NOR4EE_US = NOR4EE_US
+NOR2EE_CN = NOR2EE_CN
+NOR3EE_CN = NOR3EE_CN
+NOR4EE_CN = NOR4EE_CN
+AND2EE_US = AND2EE_US
+AND3EE_US = AND3EE_US
+AND4EE_US = AND4EE_US
+AND2EE_CN = AND2EE_CN
+AND3EE_CN = AND3EE_CN
+AND4EE_CN = AND4EE_CN
+NAND2EE_US = NAND2EE_US
+NAND3EE_US = NAND3EE_US
+NAND4EE_US = NAND4EE_US
+NAND2EE_CN = NAND2EE_CN
+NAND3EE_CN = NAND3EE_CN
+NAND4EE_CN = NAND4EE_CN
+XOR2EE_US = XOR2EE_US
+XOR2EE_CN = XOR2EE_CN
+XNOR2EE_US = XNOR2EE_US
+XNOR2EE_CN = XNOR2EE_CN
+Digital_Clock_1Hz = Digital_Clock_1Hz
+Logicstate_0 = Logicstate_0
+Logicstate_1 = Logicstate_1
+Logic_Probe = Logic_Probe
+Buffee = Buffee
+INVEE_US = INVEE_US
+INVEE_CN = INVEE_CN
+Schmittbuffee = Schmittbuffee
+LM358N_US = LM358N_US
+LM358N_CN = LM358N_CN
+OPAMP3PEE_US = OPAMP3PEE_US
+OPAMP3PEE_CN = OPAMP3PEE_CN
+OPAMP5PEE_US = OPAMP5PEE_US
+OPAMP5PEE_CN = OPAMP5PEE_CN
+Voltage_Controlled_Switch = Voltage_Controlled_Switch
+Current_Controlled_Switch = Current_Controlled_Switch
+FUSE = FUSE
+Delay_Fuse = Delay_Fuse
+Transmission_Line = Transmission_Line
+BCD_Segment = BCD_Segment
+Seven_Segment = Seven_Segment
+Traffic_Light = Traffic_Light
+Lamp Settings = Ρυθμίσεις Λυχνίας
+Power[W] = Ισχύς[W]
+Dropout Voltage[V] = Τάση Κατακόρυφης Απώλειας[V]
+Current[A] = Ρεύμα[A]
+Threshold[V] = Όριο[V]
+Clock Rate = Clock Rate
+TrafficLight Settings = Ρυθμίσεις TrafficLight
+BCDSegment Settings = Ρυθμίσεις BCD_Segment
+SevenSegment Settings = Ρυθμίσεις Seven_Segment
+SPDT Settings = Ρυθμίσεις SPDT
+SPST Settings = Ρυθμίσεις SPST
+LogicAnalyzer Settings = Ρυθμίσεις Αναλυτή Λογικής
+Fuse Settings = Ρυθμίσεις Ασφάλειας
+Wattmeter Settings = Ρυθμίσεις Μετρητή Ισχύος
+open = άνοιγμα
+close = κλείσιμο
+Common Anode = Κοινή Άνοδος
+Common Cathode = Κοινή Καθόδος
+AC Amplitude = Εύρος AC
+AC Phase = Φάση AC
+There are some parts haven't spice model, please use "EElib" and "Spice Symbol" at "Libraries" of "Simulation" mode, or you can assign the spice model for them: = Υπάρχουν κάποια μέρη που δεν έχουν μοντέλο spice, παρακαλώ χρησιμοποιήστε το "EElib" και το "Spice Symbol" στην καρτέλα "Βιβλιοθήκες" της λειτουργίας "Προσομοίωσης", ή μπορείτε να αντιστοιχίσετε το spice μοντέλο σε αυτά:
+
+#Pin
+Pin Properties = Ιδιότητες Πινάκων
+Orientation = Προσανατολισμός
+Line 45° = Γραμμή 45°
+Line 90° = Γραμμή 90°
+Arc 45° = Τόξο 45°
+Arc 90° = Τόξο 90°
+Free Angle = Ελεύθερη Γωνία
+Start X = Αρχή X
+Start Y = Αρχή Y
+Length = Μήκος
+Name = Όνομα
+name = όνομα
+Number = Αριθμός
+Spice Pin Order = Σειρά Πινάκων Spice
+Display Number = Αριθμός Εμφάνισης
+Clock = Ρολόι
+Show = Εμφάνιση
+Electric = Ηλεκτρικό
+
+#Junction
+Junction Properties = Ιδιότητες Διασταύρωσης
+X Location = Θέση X
+Y Location = Θέση Y
+Size = Μέγεθος
+Color = Χρώμα
+
+#Net Label
+Net Label = Ετικέτα Δικτύου
+
+#Part
+Prefix = Πρόθεμα
+
+#Image Properties and Dialog
+Add Image = Προσθήκη Εικόνας
+Image Properties = Ιδιότητες Εικόνας
+Image URL = Διεύθυνση URL Εικόνας
+Input an image URL = Εισάγετε μια διεύθυνση URL εικόνας
+Invalid image URL = Μη έγκυρη διεύθυνση URL εικόνας
+Invalid Prefix = Μη έγκυρο Πρόθεμα
+Failed to load the image = Αποτυχία φόρτωσης εικόνας
+Image URL contains special characters = Η διεύθυνση URL εικόνας περιέχει ειδικούς χαρακτήρες
+From Web URL = Από Διεύθυνση URL Ιστού
+From Local Computer = Από τοπικό υπολογιστή
+Please select a png/gif/jpg file. = Παρακαλώ επιλέξτε ένα αρχείο png/gif/jpg.
+Please select an image file. = Παρακαλώ επιλέξτε ένα αρχείο εικόνας
+Select an image file = Επιλέξτε ένα αρχείο εικόνας
+Insert Image to PCB = Εισαγωγή Εικόνας στο PCB
+Tolerance = Ανοχή
+tolerance = ανοχή
+capacitance = χωρητικότητα
+frequency = συχνότητα
+Rated Voltage = Ονομαστική Τάση
+Rated Current = Ονομαστικό Ρεύμα
+resistance = αντίσταση
+Resistance = Αντίσταση
+Resistance[Ω] = Αντίσταση[Ω]
+inductance = επαγωγή
+Operating Temperature = Θερμοκρασία Λειτουργίας
+Shape Invert = Αντιστροφή Σχήματος
+Image Size = Μέγεθος Εικόνας
+Color Tolerance = Ανοχή Χρώματος
+Simplify Level = Επίπεδο Απλοποίησης
+Corner Threshold = Όριο Γωνίας
+Despeckle Size = Μέγεθος Αφαίρεσης Θορύβου
+
+#PCB Canvas Properties
+Units = Μονάδες
+Snap Size = Μέγεθος Προσαρμογής
+Other = Άλλο
+Routing Width = Πλάτος Διαδρομής
+[router]
+Routing Width = Πλάτος Διαδρομής
+[/router]
+Please using hotkey {0}{key1}{1} or {2}{key2}{3} to change track width while on routing. = Παρακαλώ χρησιμοποιήστε τα πλήκτρα συντόμευσης {0}{key1}{1} ή {2}{key2}{3} για να αλλάξετε το πλάτος της διαδρομής κατά τη διάρκεια της δρομολόγησης.
+Routing Angle = Γωνία Δρομολόγησης
+Routing Conflict = Σύγκρουση Δρομολόγησης
+Remove Loop = Αφαίρεση Βρόχου
+Cut SilkScreen = Κοπή Σειράς Σιλικόνης
+Grid = Πλέγμα
+Grid 90 = Πλέγμα 90
+Grid 45 = Πλέγμα 45
+Copper Zone = Ζώνη Χαλκού
+Visible = Ορατό
+Invisible = Αόρατο
+Ignore = Αγνόηση
+Block = Εμπλοκή
+RoundTrack = Στρογγυλή Διαδρομή
+
+#Track
+Track Properties = Ιδιότητες Διαδρομής
+Layer = Επίπεδο
+Net = Πλέγμα
+Start X = Ξεκίνημα X
+Start Y = Ξεκίνημα Y
+End X = Τέλος X
+End Y = Τέλος Y
+ID = Αναγνωριστικό
+
+#Pad Properties
+Pad Properties = Ιδιότητες Pad
+Shape = Σχήμα
+Hole(D) = Οπή (Δ)
+Center X = Κέντρο X
+Center Y = Κέντρο Y
+Round = Στρογγυλό
+Oval = Ωοειδές
+Hole Shape = Σχήμα Οπής
+Slot = Υποδοχή
+Hole(Length) = Οπή (Μήκος)
+Plated = Επικαλυμμένο
+None = Κανένα
+Paste Mask Expansion = Επέκταση Μάσκας Πατίνας
+Solder Mask Expansion = Επέκταση Μάσκας Solder
+
+#Via Properties
+Via Properties = Ιδιότητες Via
+Diameter = Διάμετρος
+Drill Diameter = Διάμετρος Δοκιμής
+
+#Hole Properties
+Hole Properties = Ιδιότητες Οπής
+
+
+#TEXT  
+Text Properties = Ιδιότητες Κειμένου  
+Line Width = Πλάτος Γραμμής  
+Rotation = Περιστροφή  
+Fonts Management = Διαχείριση Γραμματοσειρών  
+
+#Dimension Properties
+Dimension Properties = Ιδιότητες Διάστασης
+
+#Footprint Properties
+Component Properties = Ιδιότητες Εξαρτήματος
+Display Prefix = Εμφάνιση Προθέματος
+Pin Name = Όνομα Επαφής
+Pin Number = Αριθμός Επαφής
+Spice Pin Number = Αριθμός Επαφής Spice
+Graphics = Γραφικά
+Pattern = Μοτίβο
+
+Pin: = Επαφή:
+Netflag: = Netflag:
+Netlabel: = Netlabel:
+NetPort: = NetPort:
+Voltage Probe: = Voltage Probe:
+Pin: = Επαφή:
+Hidden Pin: = Κρυφή Επαφή:
+Unknown: = Άγνωστο:
+
+Arc Properties = Ιδιότητες Τόξου
+Start Angle = Γωνία Εκκίνησης
+End Angle = Γωνία Τερματισμού
+Rotation Direction = Κατεύθυνση Περιστροφής
+
+#Rect Properties
+Rect Properties = Ιδιότητες Ορθογωνίου
+Round radius = Ακτίνα Καμπύλης
+
+#Circle Properties
+Circle Properties = Ιδιότητες Κύκλου
+Radius = Ακτίνα
+
+#CopperArea Properties
+CopperArea Properties = Ιδιότητες Περιοχής Χαλκού
+Clearance = Απόσταση
+Pad Connection = Σύνδεση Πακέτου
+Direct = Άμεση
+Spoke = Ακτίνες
+Keep Island = Διατήρηση Νησίδας
+Fill Style = Στυλ Γεμίσματος
+CopperArea conflict: copper area outlines in same layer with different net names must not overlap = Σύγκρουση Περιοχής Χαλκού: οι γραμμές περιοχής χαλκού στο ίδιο επίπεδο με διαφορετικά ονόματα δικτύου δεν πρέπει να επικαλύπτονται
+Copper area rebuild complete! You can set "Copper Zone" as "Visible" at the right-hand property panel after single click the empty area. = Η ανακατασκευή της Περιοχής Χαλκού ολοκληρώθηκε! Μπορείτε να ορίσετε τη "Ζώνη Χαλκού" ως "Ορατή" στο δεξί πάνελ ιδιοτήτων μετά από ένα κλικ στην κενή περιοχή.
+Please create board outline first. = Δημιουργήστε πρώτα το περίγραμμα του πίνακα.
+Board outlines are not closed. = Τα περιγράμματα του πίνακα δεν είναι κλειστά.
+Rebuild CopperArea = Ανακατασκευή Περιοχής Χαλκού
+Edit Points = Επεξεργασία Σημείων
+Direct = Άμεση
+Spoke = Ακτίνες
+No Solid = Μη Στερεό
+Board Cutout = Κοπής Πίνακα
+Solid = Στερεό
+[copperArea] = [περιοχήΧαλκού]
+None = Κανένα
+[/copperArea] = [/περιοχήΧαλκού]
+
+#Custom Properties
+Custom Properties = Προσαρμοσμένες Ιδιότητες
+Fixed Properties = Σταθερές Ιδιότητες
+Add new parameter = Προσθήκη νέας παραμέτρου
+Add New Parameter = Προσθήκη Νέας Παραμέτρου
+Add New Supplier = Προσθήκη Νέου Προμηθευτή
+Mounted = Τοποθετημένο
+Unknown = Άγνωστο
+
+Custom = Προσαρμοσμένο
+Scan the QR code below and open it on the mobile side = Σαρώστε τον παρακάτω QR κωδικό και ανοίξτε τον στην κινητή συσκευή
+How to create a single layer PCB = Πώς να δημιουργήσετε ένα PCB μονού στρώματος
+Currently doesn't support layout single layer directly, please refer at: = Προς το παρόν δεν υποστηρίζει άμεσα διάταξη μονού στρώματος, παρακαλώ ανατρέξτε στο:
+
+#Dialog Register
+Create an account = Δημιουργία λογαριασμού
+Username = Όνομα χρήστη
+Password = Κωδικός πρόσβασης
+Confirm Password = Επιβεβαίωση κωδικού πρόσβασης
+Email = Ηλεκτρονικό ταχυδρομείο
+Please read this before you register = Παρακαλώ διαβάστε αυτό πριν εγγραφείτε
+Hi {username} = Γειά σου {username}
+
+#Dialog lostPassword
+Lost Password... = Ξεχάσατε τον κωδικό πρόσβασης...
+Find the password using your email = Βρείτε τον κωδικό πρόσβασης χρησιμοποιώντας το email σας
+
+
+
+#Dialog Login
+Login = Σύνδεση
+Username or Email = Όνομα χρήστη ή Email
+Remember Me = Θυμήσου με
+Third party = Τρίτοι
+Login and Register = Σύνδεση και Εγγραφή
+Your login information seems expired, please login again. Don't need to close the opening files, you can continue to save them after login. = Οι πληροφορίες σύνδεσής σας φαίνονται ληγμένες, παρακαλώ συνδεθείτε ξανά. Δεν χρειάζεται να κλείσετε τα ανοιχτά αρχεία, μπορείτε να συνεχίσετε να τα αποθηκεύετε μετά τη σύνδεση.
+
+#Dialog Reset Password
+Reset a password using your email = Επαναφορά κωδικού πρόσβασης μέσω του email σας
+Your registered email = Το καταχωρημένο email σας
+
+#Dialog Reaction
+Re-send an activation code to your email = Στείλτε ξανά τον κωδικό ενεργοποίησης στο email σας
+
+#Dialog Invite
+Invite friends to register = Προσκαλέστε φίλους να εγγραφούν
+Your friend's email = Το email του φίλου σας
+
+#Dialog Add A New Parameter
+Add a new parameter = Προσθήκη νέου παραμέτρου
+Key = Κλειδί
+Value.new_para = Τιμή.νέα_παράμετρος
+In BOM = Στο BOM
+Add into BOM = Προσθήκη στο BOM
+Invalid key = Άκυρο κλειδί
+This field is required. = Αυτό το πεδίο είναι υποχρεωτικό.
+
+#Dialog Change Your Password
+Change your password = Αλλαγή κωδικού πρόσβασης
+Old password = Παλιός κωδικός πρόσβασης
+New Password = Νέος κωδικός πρόσβασης
+Confirm Password = Επιβεβαίωση κωδικού πρόσβασης
+
+#Dialog Create New Design
+Save as a New Project = Αποθήκευση ως νέο έργο
+Save as a schematic = Αποθήκευση ως σχηματικό
+Save as Symbol = Αποθήκευση ως σύμβολο
+Save as a spice Symbol = Αποθήκευση ως σύμβολο spice
+Save as a spice subckt = Αποθήκευση ως spice subckt
+YOU MUST CREATE A SPICE SYMBOL WITH EXACTLY THE SAME NAME AS THIS SUBCKT = ΠΡΕΠΕΙ ΝΑ ΔΗΜΙΟΥΡΓΗΣΕΤΕ ΕΝΑ ΣΥΜΒΟΛΟ SPICE ΜΕ ΑΚΡΙΒΩΣ ΤΟ ΙΔΙΟ ΟΝΟΜΑ ΜΕ ΑΥΤΟ ΤΟ SUBCKT
+Save as a PCB file = Αποθήκευση ως αρχείο PCB
+Save as Footprint = Αποθήκευση ως Footprint
+Save as a Schematic Module = Αποθήκευση ως Σχηματική Μονάδα
+Save as a PCB Module = Αποθήκευση ως Μονάδα PCB
+Save as 3D Model = Αποθήκευση ως 3D Μοντέλο
+Save as a WaveForm = Αποθήκευση ως Κύμα
+Do not allow saving to target project = Μην επιτρέπεις την αποθήκευση στο στόχο έργου
+Title = Τίτλος
+Share = Κοινοποίηση
+Add file = Προσθήκη αρχείου
+Visibility = Ορατότητα
+Allow Comments = Επιτρέψτε σχόλια
+Public (Anyone can see this project but only you can modify it.) = Δημόσιο (Ο καθένας μπορεί να δει αυτό το έργο, αλλά μόνο εσείς μπορείτε να το τροποποιήσετε.)
+Private (Only you can see and modify this project) = Ιδιωτικό (Μόνο εσείς μπορείτε να δείτε και να τροποποιήσετε αυτό το έργο)
+Create new project success! = Δημιουργία νέου έργου με επιτυχία!
+You can now create files under this project = Μπορείτε τώρα να δημιουργήσετε αρχεία υπό αυτό το έργο
+This file must be saved under a project, choose other project or create a new project = Αυτό το αρχείο πρέπει να αποθηκευτεί κάτω από ένα έργο, επιλέξτε άλλο έργο ή δημιουργήστε ένα νέο έργο
+Please login to save this kind of document = Παρακαλώ συνδεθείτε για να αποθηκεύσετε αυτόν τον τύπο εγγράφου
+Duplicated project title = Επαναλαμβανόμενος τίτλος έργου
+#Duplicated document title = #Επαναλαμβανόμενος τίτλος εγγράφου
+Project does not exist = Το έργο δεν υπάρχει
+Document does not exist = Το έγγραφο δεν υπάρχει
+document not exists = το έγγραφο δεν υπάρχει
+
+Categories = Κατηγορίες
+Project = Έργο
+Short description = Σύντομη περιγραφή
+Content = Περιεχόμενο
+Modify this project info. = Τροποποιήστε τις πληροφορίες αυτού του έργου.
+Modify this file info. = Τροποποιήστε τις πληροφορίες αυτού του αρχείου.
+Notice = Ειδοποίηση
+Search for it before creating a new one. = Αναζητήστε το πριν δημιουργήσετε ένα νέο.
+Manufacturer Part Number = Αριθμός μέρους κατασκευαστή
+Supplier = Προμηθευτής
+Or = Ή
+Supplier Part = Μέρος προμηθευτή
+Supplier Part Number = Αριθμός μέρους προμηθευτή
+Link = Σύνδεσμος
+link = σύνδεσμος
+The professional function please refer at: = Για τη λειτουργία επαγγελματία παρακαλώ ανατρέξτε στο:
+
+#Dialog Clone My Part
+#Clone it to a project = Κλωνοποιήστε το σε ένα έργο
+#Clone it, then edit it = Κλωνοποιήστε το, στη συνέχεια επεξεργαστείτε το
+Clone your file = Κλωνοποιήστε το αρχείο σας
+
+#Dialog Subckt
+Attach a Subckt to this spice symbol = Συνδέστε ένα Subckt σε αυτό το σύμβολο spice
+Subckt string = Συμβολοσειρά Subckt
+Spice symbol title just allow [0-9][a-z][A-Z] and _ = Ο τίτλος του συμβόλου spice επιτρέπει μόνο [0-9][a-z][A-Z] και _
+
+#Design Manager
+Design Manager = Διαχειριστής Σχεδίου
+Nets = Δίκτυα
+DRC Errors = Σφάλματα DRC
+Are you sure you want to unroute this net? = Είστε βέβαιοι ότι θέλετε να αφαιρέσετε αυτό το δίκτυο;
+Unroute = Αφαίρεση Δικτύου
+Track Length = Μήκος Τροχιάς
+Via/Hole Outer Size = Εξωτερικό Μέγεθος Σωλήνα/Οπής
+Filter nets = Φιλτράρισμα Δικτύων
+Design Rule Checking = Έλεγχος Κανόνων Σχεδίασης
+Board Outline = Περίγραμμα Πλακέτας
+Plane Zone = Ζώνη Πλάνου
+[drcRule]
+Width = Πλάτος
+DRC Width = Πλάτος DRC
+Length = Μήκος
+DRC Length = Μήκος DRC
+Drill Diameter = Διάμετρος Τρυπανιού
+DRC Drill Diameter = Διάμετρος Τρυπανιού DRC
+Diameter = Διάμετρος
+DRC Diameter = Διάμετρος DRC
+Object = Αντικείμενο
+DRC Clearance = Απόσταση DRC
+[/drcRule]
+#It will take a while to unroute this net, do you want to continue? = Θα χρειαστεί λίγος χρόνος για να αφαιρέσετε αυτό το δίκτυο, θέλετε να συνεχίσετε;
+More than one netlabel is found in wire, please checked whether this is correct, if you design it on purpose, please ignore this warning. = Βρέθηκαν περισσότερες από μία ετικέτες δικτύου στο καλώδιο, παρακαλώ ελέγξτε αν αυτό είναι σωστό, αν το σχεδιάσατε σκόπιμα, αγνοήστε αυτήν την προειδοποίηση.
+Incomplete net, a complete net should contain two or more pins, if you design it on purpose, please ignore this warning. = Ατελές δίκτυο, ένα πλήρες δίκτυο θα πρέπει να περιέχει δύο ή περισσότερες ακίδες, αν το σχεδιάσατε σκόπιμα, αγνοήστε αυτήν την προειδοποίηση.
+This netlabel is not connected with any pin. = Αυτή η ετικέτα δικτύου δεν είναι συνδεδεμένη με καμία ακίδα.
+Incomplete connection, please check. = Ατελής σύνδεση, παρακαλώ ελέγξτε.
+The clearance between two objects is less than the Design Rule Checking (DRC) clearance which has different nets. = Η απόσταση μεταξύ δύο αντικειμένων είναι μικρότερη από την απόσταση DRC, η οποία έχει διαφορετικά δίκτυα.
+The diameter is less than Design Rule Checking (DRC) diameter = Η διάμετρος είναι μικρότερη από τη διάμετρο DRC
+The drill diameter is less than Design Rule Checking (DRC) drill diameter = Η διάμετρος του τρυπανιού είναι μικρότερη από τη διάμετρο του τρυπανιού DRC
+The track length is longer than Design Rule Checking (DRC) track length = Το μήκος της τροχιάς είναι μεγαλύτερο από το μήκος τροχιάς DRC
+The track width is less than Design Rule Checking (DRC) track width = Το πλάτος της τροχιάς είναι μικρότερο από το πλάτος τροχιάς DRC
+
+#Dialog Simulation
+Show your simulation report = Εμφάνιση αναφοράς προσομοίωσης
+Download netlist = Λήψη δικτύου
+Run = Εκτέλεση
+Components = Στοιχεία
+
+#Dialog Import
+Import file from your computer = Εισαγωγή αρχείου από τον υπολογιστή σας
+Maximum file size: 30 MB = Μέγιστο μέγεθος αρχείου: 30 MB
+Maximum file size: 100 MB = Μέγιστο μέγεθος αρχείου: 100 MB
+Chose file = Επιλογή αρχείου
+File Operation = Λειτουργία αρχείου
+Import File = Εισαγωγή αρχείου
+Extract Libs = Εξαγωγή Βιβλιοθηκών
+No Libs! = Δεν υπάρχουν βιβλιοθήκες!
+Import File and Extract Libs = Εισαγωγή αρχείου και εξαγωγή βιβλιοθηκών
+File type = Τύπος αρχείου
+The file size is too large. = Το μέγεθος του αρχείου είναι πολύ μεγάλο.
+Please selected the file type. = Επιλέξτε τον τύπο αρχείου.
+No component was found! = Δεν βρέθηκε κανένα στοιχείο!
+Import successfully = Εισαγωγή ολοκληρώθηκε με επιτυχία
+Import failed = Αποτυχία εισαγωγής
+Click OK to continue with the import = Πατήστε OK για να συνεχίσετε με την εισαγωγή
+Select None = Επιλέξτε Κανένα
+
+#Dialog Modify Symbol Information
+Modify symbol information = Τροποποίηση πληροφοριών συμβόλου
+Spice Prefix = Πρόθεμα Spice
+Hide Pin = Απόκρυψη ακίδας
+Pin Manager = Διαχείριση ακίδων
+When a power pin is hidden, it will be marked as netlabel, you don't need to wire it. If you use it as simulation, please show it or create a GND/VCC Net for it. = Όταν μια ακίδα ισχύος είναι κρυφή, θα σημαίνεται ως netlabel, δεν χρειάζεται να την συνδέσετε. Αν τη χρησιμοποιείτε σε προσομοίωση, παρακαλώ εμφανίστε την ή δημιουργήστε ένα δίκτυο GND/VCC για αυτήν.
+Assign = Ανάθεση
+Supplier.bom = Supplier.bom
+LCSC.bom = LCSC.bom
+Price = Τιμή
+Quantity.bom = Quantity.bom
+Package.bom = Package.bom
+Components.bom = Components.bom
+Manufacturer Part.bom = Manufacturer Part.bom
+Manufacturer.bom = Manufacturer.bom
+
+One-click Purchasing at LCSC = Αγορά με ένα κλικ στο LCSC
+Order Parts = Παραγγελία εξαρτημάτων
+Export BOM = Εξαγωγή BOM
+Upload to LCSC ERP = Ανέβασμα στο LCSC ERP
+Order SMT Parts = Παραγγελία SMT εξαρτημάτων
+No components, upload failed! = Χωρίς εξαρτήματα, απέτυχε η αποστολή!
+Upload to LCSC ERP failed, please try again later. = Αποστολή στο LCSC ERP απέτυχε, παρακαλώ δοκιμάστε ξανά αργότερα.
+Current BOM upload to Chip Manager of LCSC successfully, click "OK" button to access Chip Manager. = Η αποστολή του τρέχοντος BOM στον Διαχειριστή Chip του LCSC ήταν επιτυχής, πατήστε το κουμπί "OK" για να αποκτήσετε πρόσβαση στον Διαχειριστή Chip.
+Upload to LCSC ERP failed, found some components miss some properties value, please check property "Footprint, Manufacturer Part" value if exist. = Η αποστολή στο LCSC ERP απέτυχε, βρέθηκαν κάποια εξαρτήματα χωρίς κάποιες τιμές ιδιοτήτων, παρακαλώ ελέγξτε τις τιμές "Footprint, Manufacturer Part" αν υπάρχουν.
+Export PCB BOM = Εξαγωγή PCB BOM
+Export Schematic BOM = Εξαγωγή Σχηματικού BOM
+ID.bom = ID.bom
+Name.bom = Name.bom
+[bom]
+Name = Όνομα
+LCSC Assembly = Συναρμολόγηση LCSC
+Value = Τιμή
+ID = ID
+Supplier = Προμηθευτής
+LCSC = LCSC
+Price = Τιμή
+Quantity = Ποσότητα
+Package = Πακέτο
+Components = Στοιχεία
+Manufacturer = Κατασκευαστής
+[/bom]
+Manufacturer Part = Μέρος Κατασκευαστή
+Part Number = Αριθμός Μέρους
+Part Code = Κωδικός Μέρους
+
+#Dialog Run
+Run your simulation = Εκτέλεση προσομοίωσης
+Transient = Παροδική ανάλυση
+Maximum Timestep = Μέγιστο βήμα χρόνου
+Stop Time = Χρόνος διακοπής
+Start Time = Χρόνος έναρξης
+
+AC Analysis = Ανάλυση AC
+Type of Sweep = Τύπος σάρωσης
+Number of points = Αριθμός σημείων
+Start Frequency = Συχνότητα έναρξης
+Stop Frequency = Συχνότητα διακοπής
+
+DC sweep = Σάρωση DC
+Source to Sweep = Πηγή προς σάρωση
+Start Value = Τιμή έναρξης
+Stop Value = Τιμή διακοπής
+Increment = Βήμα αύξησης
+DC Transfer = Μεταφορά DC
+Output = Έξοδος
+Source = Πηγή
+
+DC op pnt = Σημείο λειτουργίας DC
+Compute the DC operating point treating capacitances as opens and inductances as shorts = Υπολογισμός του σημείου λειτουργίας DC, θεωρώντας τις πυκνωτές ως ανοικτούς και τις επαγωγές ως βραχυκυκλωμένες
+
+#Dialog Share Info
+Active File = Ενεργό Αρχείο
+Active Project = Ενεργό Έργο
+Readonly = Μόνο για Ανάγνωση
+Editable = Επεξεργάσιμο
+Active file's owner project page = Σελίδα έργου του κατόχου του ενεργού αρχείου
+Active project editor page = Σελίδα επεξεργαστή του ενεργού έργου
+
+#Dialog Document Recovery
+All Projects = Όλα τα Έργα
+Document Recovery = Ανάκτηση Εγγράφου
+Unsaved files = Αποθηκευμένα αρχεία
+Please select a file! = Επιλέξτε ένα αρχείο!
+Please expand the folder first, then select a document to recover. = Επεκτείνετε πρώτα τον φάκελο και στη συνέχεια επιλέξτε ένα έγγραφο για ανάκτηση.
+Are you sure you want to remove this backup? = Είστε σίγουροι ότι θέλετε να αφαιρέσετε αυτό το αντίγραφο ασφαλείας;
+
+#Dialog Find Libs
+Search = Αναζήτηση
+Search Results = Αποτελέσματα Αναζήτησης
+Search and press Enter = Αναζητήστε και πατήστε Enter
+Keywords at least 3 characters = Λέξεις-κλειδιά τουλάχιστον 3 χαρακτήρες
+Assembled = Συναρμολογημένο
+Verified = Επαληθευμένο
+In stock = Σε απόθεμα
+{page} of {pagecount} pages = {page} από {pagecount} σελίδες
+Common Modules = Κοινά Μοντέλα
+User Contributions = Συνεισφορές Χρηστών
+More = Περισσότερα
+Modify Model... = Τροποποίηση Μοντέλου...
+Add Favorite = Προσθήκη στα Αγαπημένα
+Remove Favorite = Αφαίρεση από τα Αγαπημένα
+Add Sub Part = Προσθήκη Υπομέρους
+Add Sub Parts... = Προσθήκη Υπομερών...
+Please enter how many sub parts need to be added = Εισάγετε πόσα υπομέρη πρέπει να προστεθούν
+Untagged = Χωρίς Ετικέτες
+Package = Πακέτο
+package = πακέτο
+Title(PartNO) = Τίτλος(Αριθμός Μέρους)
+No Data! = Δεν βρέθηκαν δεδομένα!
+Quantity = Ποσότητα
+Manufacturer Part = Αριθμός Μέρους Κατασκευαστή
+manufacturer Part = αριθμός μέρους κατασκευαστή
+Manufacturer = Κατασκευαστής
+manufacturer = κατασκευαστής
+voltage = τάση
+Library = Βιβλιοθήκη
+LCSC Assembled = Συναρμολογημένο από LCSC
+JLCPCB Assembled = Συναρμολογημένο από JLCPCB
+User Contributed = Συνεισφορά Χρηστών
+Symbol = Σύμβολο
+Follow = Ακολουθήστε
+Types = Τύποι
+Classes = Κατηγορίες
+power = ισχύς
+Power = Ισχύς
+LCSC Part# = Αριθμός Μέρους LCSC
+LCSC Stock = Απόθεμα LCSC
+Report Error... = Αναφορά Σφάλματος...
+Report Error = Αναφορά Σφάλματος
+Thanks for your feedback! = Ευχαριστούμε για τα σχόλιά σας!
+Report error success, thanks for your report! = Η αναφορά σφάλματος ήταν επιτυχής, ευχαριστούμε για την αναφορά σας!
+The content must be at least 2 characters! = Το περιεχόμενο πρέπει να έχει τουλάχιστον 2 χαρακτήρες!
+This library is user contributed, please check before using. = Αυτή η βιβλιοθήκη έχει συνεισφέρει από χρήστες, παρακαλούμε ελέγξτε πριν τη χρησιμοποιήσετε.
+[lib]
+All = Όλα
+System = Σύστημα
+Personal = Προσωπικό
+Created = Δημιουργημένα
+Favorite = Αγαπημένα
+No Team found. Please join or create a team first. = Δεν βρέθηκε ομάδα. Παρακαλούμε συνδεθείτε ή δημιουργήστε μια ομάδα πρώτα.
+Create a team = Δημιουργία ομάδας
+No follow user found. Please follow your friend first. = Δεν βρέθηκε χρήστης για ακολούθηση. Παρακαλούμε ακολουθήστε πρώτα τον φίλο σας.
+[/lib]
+
+
+BUY = ΑΓΟΡΑ
+In Stock = Σε απόθεμα
+Out of Stock = Εξαντλημένο
+Minimum = Ελάχιστο
+Distributor = Διανομέας
+
+Capacitance = Χωρητικότητα
+Frequency Tolerance = Ανοχή Συχνότητας
+Power (Watts) = Ισχύς (Watt)
+Power - Max = Ισχύς - Μέγιστο
+Frequency = Συχνότητα
+Voltage Rating(Vdc,Vac) = Ονομαστική Τάση (Vdc, Vac)
+Voltage = Τάση
+Current Rating = Ονομαστική Ρεύματος
+Rated current = Ονομαστικό Ρεύμα
+Resistance (Ohms) = Αντίσταση (Ω)
+Resistance(Ohms) = Αντίσταση (Ω)
+Inductance = Αυτεπαγωγή
+FET Type = Τύπος FET
+Current Rating(Max) = Ονομαστική Ρεύματος (Μέγιστο)
+Impedance @ Frequency = Εμποδισμός @ Συχνότητα
+Voltage - Input (Max) = Τάση Εισόδου (Μέγιστο)
+Voltage - Input (Min) = Τάση Εισόδου (Ελάχιστο)
+Voltage - Supply = Τάση Τροφοδοσίας
+Voltage - Max = Τάση - Μέγιστο
+Current - Output = Ρεύμα - Έξοδος
+
+#Dialog Export Your Works
+Export your works = Εξαγωγή των έργων σας
+Export to = Εξαγωγή σε
+Zoom = Ζουμ
+Image Type = Τύπος Εικόνας
+Qualify = Ποιότητα
+0 means real size = Το 0 σημαίνει πραγματικό μέγεθος
+Merged layer = Συγχωνευμένο στρώμα
+Separated layer = Διαχωρισμένο στρώμα
+Paged layer = Στρώμα σε σελίδες
+Layer = Στρώμα
+Export = Εξαγωγή
+Mirror = Καθρέπτης
+TopLayer = Άνω Στρώμα
+BottomLayer = Κάτω Στρώμα
+TopSilkLayer = Άνω Στρώμα Μεταξωτού
+Protractor Properties = Ιδιότητες Διόπτρας
+BottomSilkLayer = Κάτω Στρώμα Μεταξωτού
+
+BoardOutLine = Περίγραμμα Πλακέτας
+TopAssembly = Άνω Συναρμολόγηση
+BottomAssembly = Κάτω Συναρμολόγηση
+Mechanical = Μηχανικό
+DocumentLayer = Στρώμα Εγγράφου
+Inner{number} = Εσωτερικό{number}
+Substrate{number} = Υπόστρωμα{number}
+Color = Χρώμα
+Full Color = Πλήρες Χρώμα
+Canvas Setting = Ρυθμίσεις Καμβά
+Full Graphics = Πλήρη Γραφικά
+Assembly Drawings = Σχέδια Συναρμολόγησης
+Object Outlines = Περίγραμμα Αντικειμένων
+Invalid file format = Μη έγκυρη μορφή αρχείου
+Failed to export file = Αποτυχία εξαγωγής αρχείου
+Download now = Κατεβάστε τώρα
+Wire Width = Πλάτος Σύρματος
+Sheet = Φύλλο
+Merged sheet = Συγχωνευμένο φύλλο
+Separated sheet = Διαχωρισμένο φύλλο
+Engine = Μηχανή
+Exporting PDF = Εξαγωγή σε PDF
+Export 3D Model = Εξαγωγή 3D Μοντέλου
+[exportDocument]
+Size = Μέγεθος
+[/exportDocument]
+
+#Dialog Import Changes
+Confirm Importing changes information =
+You can't undo this operation, Please run a Design Rule Checking (DRC) after this operation. =
+Apply Changes =
+This is a simple Design Rule Checking (DRC). =
+It just can help you to find the obvious errors =
+There are some unfinished nets, do you want to check the nets first? =
+Yes, Check Nets =
+No, Keep Going =
+
+#Dialog Layer Manager
+Configured = Configured
+Layer Name = Layer Name
+TopPasterLayer = TopPasterLayer
+BottomPasterLayer = BottomPasterLayer
+TopSolderLayer = TopSolderLayer
+BottomSolderLayer = BottomSolderLayer
+TopPasteMaskLayer = TopPasteMaskLayer
+BottomPasteMaskLayer = BottomPasteMaskLayer
+TopSolderMaskLayer = TopSolderMaskLayer
+BottomSolderMaskLayer = BottomSolderMaskLayer
+ComponentShapeLayer = ComponentShapeLayer
+LeadShapeLayer = LeadShapeLayer
+ComponentMarkingLayer = ComponentMarkingLayer
+Ratlines = Ratlines
+Ratlines Color = Ratlines Color
+Manage Colors = Manage Colors
+BoardOutline = BoardOutline
+Multi-Layer = Multi-Layer
+Hole = Hole
+DRCError = DRCError
+Setting = Setting
+Drawing area = Drawing area
+Export area = Export area
+Transparency(%) = Transparency(%)
+Copper Layer = Copper Layer
+Signal = Signal
+Plane = Plane
+Non-Signal = Non-Signal
+Other = Other
+Please delete all the objects of the layers first! The layers are: = Παρακαλώ διαγράψτε πρώτα όλα τα αντικείμενα των στρωμάτων! Τα στρώματα είναι:
+You are converting Signal Layer to Plane Layer, There're some non-track objects remain on following layers. Please delete the objects manually on the canvas. = Μετατρέπετε το Στρώμα Σήματος σε Στρώμα Επίπεδου, Υπάρχουν κάποια μη-οδικά αντικείμενα που παραμένουν στα παρακάτω στρώματα. Παρακαλώ διαγράψτε τα αντικείμενα χειροκίνητα στον καμβά.
+Please delete all the objects of this layer first! = Παρακαλώ διαγράψτε πρώτα όλα τα αντικείμενα αυτού του στρώματος!
+
+#Dialog Fabrication Output
+Create Files = Δημιουργία Αρχείων
+Check your {0}Gerber files{1} carefully before sending them to the factory = Ελέγξτε προσεκτικά τα {0}αρχεία Gerber{1} πριν τα στείλετε στο εργοστάσιο
+Download free Gerber Viewer (gerbv) = Κατεβάστε τον δωρεάν Εξερευνητή Gerber (gerbv)
+Before generating the Gerber files = Πριν δημιουργήσετε τα αρχεία Gerber
+Please check the packages size and orientation carefully. = Παρακαλώ ελέγξτε προσεκτικά το μέγεθος και τον προσανατολισμό των πακέτων.
+Please check for Design Rule Checking (DRC) errors in the Design Manager. = Παρακαλώ ελέγξτε για σφάλματα Ελέγχου Σχεδιαστικών Κανόνων (DRC) στον Διαχειριστή Σχεδιασμού.
+Please rebuild the copper area after modifying tracks and packages. = Παρακαλώ ξαναχτίστε την περιοχή χαλκού μετά την τροποποίηση των τροχιών και των πακέτων.
+After generating the Gerber file, please use the {0}Gerber Viewer{1} to check whether it conforms to the design requirements. = Μετά τη δημιουργία του αρχείου Gerber, παρακαλώ χρησιμοποιήστε τον {0}Εξερευνητή Gerber{1} για να ελέγξετε αν πληροί τις απαιτήσεις σχεδιασμού.
+Order PCB/SMT = Παραγγελία PCB/SMT
+Found the complicated polygon that object cannot be generated at Gerber, please remove or replace = Βρέθηκε το πολύπλοκο πολυγώνο που δεν μπορεί να παραχθεί στο Gerber, παρακαλώ αφαιρέστε ή αντικαταστήστε
+ID: {id}, Object: {object}, Location: {location} = ID: {id}, Αντικείμενο: {object}, Τοποθεσία: {location}
+
+#Dialog DRC
+Item = Στοιχείο
+Value = Τιμή
+value = τιμή
+Unit = Μονάδα
+Track Width = Πλάτος Τροχιάς
+Track to Track = Τροχιά σε Τροχιά
+Track to Pad = Τροχιά σε Πατάκι
+Pad to Pad = Πατάκι σε Πατάκι
+Via to Via = Via σε Via
+Via Hole Size = Μέγεθος Οπής Via
+Realtime DRC = DRC σε πραγματικό χρόνο
+{0} is too small! = Το {0} είναι πολύ μικρό!
+Invalid DRC Rule = Άκυρος Κανόνας DRC
+Rule = Κανόνας
+Via Diameter = Διάμετρος Via
+Via Drill Diameter = Διάμετρος Τρυπήματος Via
+Net List = Λίστα Δικτύου
+Rule = Κανόνας
+Set Rule = Ορισμός Κανόνα
+Check Object to Copper Area = Έλεγχος Αντικειμένου στην Περιοχή Χαλκού
+Show DRC Boundary while Routing = Εμφάνιση Ορίων DRC κατά την Δρομολόγηση
+Check Object to Board Outline = Έλεγχος Αντικειμένου στην Περίμετρο Πλακέτας
+Rule name already exists! = Το όνομα του κανόνα υπάρχει ήδη!
+You should not delete default rule! = Δεν πρέπει να διαγράψετε τον προεπιλεγμένο κανόνα!
+Rule list contains invalid rule setting! = Η λίστα κανόνων περιέχει άκυρη ρύθμιση κανόνα!
+Duplicate rule name exists! = Υπάρχει όνομα κανόνα με διπλότυπο!
+via diameter is smaller than via drill diameter! = Η διάμετρος του via είναι μικρότερη από τη διάμετρο τρυπήματος του via!
+Currently rule name is not allowed to contain magical characters like . and $ = Αυτή τη στιγμή το όνομα του κανόνα δεν επιτρέπεται να περιέχει μαγικούς χαρακτήρες όπως . και $
+Track Width (min) = Πλάτος Τροχιάς (ελάχιστο)
+Clearance (min) = Απόσταση (ελάχιστο)
+Via Diameter (min) = Διάμετρος Via (ελάχιστο)
+Via Drill Diameter (min) = Διάμετρος Τρυπήματος Via (ελάχιστο)
+Track Length (max) = Μήκος Τροχιάς (μέγιστο)
+[drcRule]
+All = Όλα
+[/drcRule]
+
+#Dialog Hotkey
+Change Canvas Unit = Αλλαγή Μονάδας Καμβά
+Copy Selected Object(s) by Reference Point = Αντιγραφή Επιλεγμένων Αντικειμένων με Σημείο Αναφοράς
+Fullscreen = Πλήρης Οθόνη
+Undo the Previous Draw = Ανάστροφη Σχέδιο Προηγούμενης Ενέργειας
+Set Canvas Origin by Coordinate = Ορισμός Αφετηρίας Καμβά με Συντεταγμένες
+Switch to the Next Signal Layer = Εναλλαγή στην Επόμενη Στρώση Σήματος
+Switch to the Previous Signal Layer = Εναλλαγή στην Προηγούμενη Στρώση Σήματος
+Switch object to top layer or bottom layer = Εναλλαγή Αντικειμένου στην Άνω Στρώση ή Κάτω Στρώση
+Cycle Forward to the Next Open Tabbed Document = Περιήγηση Μπροστά στο Επόμενο Ανοιχτό Έγγραφο με Καρτέλες
+Cycle Backward to the Previous Open Tabbed Document = Περιήγηση Πίσω στο Προηγούμενο Ανοιχτό Έγγραφο με Καρτέλες
+Switch to the Previous Layer(on the Numeric Keypad) = Εναλλαγή στην Προηγούμενη Στρώση (στο Αριθμητικό Πληκτρολόγιο)
+Switch to the Next Layer(on the Numeric Keypad) = Εναλλαγή στην Επόμενη Στρώση (στο Αριθμητικό Πληκτρολόγιο)
+Toggle Layers Which is Not Active = Εναλλαγή Στρώσεων που Δεν Είναι Ενεργές
+Hotkey Setting = Ρύθμιση Συντόμευσης
+Document Type = Τύπος Εγγράφου
+Shortcut = Συντόμευση
+Function = Λειτουργία
+ALL = Όλα
+SCH = ΣΗΜΑ
+Rotate Selected Objects = Περιστροφή Επιλεγμένων Αντικειμένων
+Scroll or Move Selected Left = Κύλιση ή Μετακίνηση Επιλεγμένων Αριστερά
+Scroll or Move Selected Right = Κύλιση ή Μετακίνηση Επιλεγμένων Δεξιά
+Scroll or Move Selected Up = Κύλιση ή Μετακίνηση Επιλεγμένων Πάνω
+Scroll or Move Selected Down = Κύλιση ή Μετακίνηση Επιλεγμένων Κάτω
+Set canvas origin to the center grid of graphics in symbol; Set canvas origin to the center of pads in footprint. = Ορισμός Αφετηρίας Καμβά στο Κέντρο του Πλέγματος στο Σύμβολο; Ορισμός Αφετηρίας Καμβά στο Κέντρο των Πατακίων στο Πακέτο
+Cross Document Paste = Επικόλληση Διαμέσου Εγγράφων
+Explore & Find Components = Εξερεύνηση και Εύρεση Συστατικών
+Select All = Επιλογή Όλων
+Cancel Current Drawing = Ακύρωση Τρέχοντος Σχεδίου
+Save = Αποθήκευση
+Drag Tool = Εργαλείο Μεταφοράς
+Draw Wire = Σχεδίαση Σχοινιού
+Draw Bus = Σχεδίαση ΜBus
+Bus Entry = Είσοδος ΜBus
+Junction = Διακλάδωση
+Net Flag GND = Σημαία Δικτύου Γείωση
+Net Flag = Σημαία Δικτύου
+Draw Polyline = Σχεδίαση Πολυγραμμής
+Draw Polygon = Σχεδίαση Πολυγώνου
+Draw Bezier = Σχεδίαση Καμπύλης Bezier
+Draw Arc = Σχεδίαση Τόξου
+Draw Rect = Σχεδίαση Ορθογωνίου
+Draw Ellipse = Σχεδίαση Ελλείψεως
+Freehand Draw = Σχεδίαση Χειρόγραφα
+Freedraw = Ελεύθερη Σχεδίαση
+Draw Text = Σχεδίαση Κειμένου
+Edit Selected Symbol = Επεξεργασία Επιλεγμένου Συμβόλου
+Draw Track = Σχεδίαση Τροχιάς
+Draw Circle = Σχεδίαση Κύκλου
+Cycle Select Object at Current Location = Περιήγηση Επιλογής Αντικειμένου στην Τρέχουσα Τοποθεσία
+Draw Dimension = Σχεδίαση Διάστασης
+Draw Connect = Σχεδίαση Σύνδεσης
+Draw CopperArea = Σχεδίαση Περιοχής Χαλκού
+Change to TopLayer;<br/>Change Selected Component's Layer to TopLayer; = Αλλαγή στην Άνω Στρώση;<br/>Αλλαγή Στρώσης Επιλεγμένου Συστατικού σε Άνω Στρώση
+Change to BottomLayer;<br/>Change Selected Component's Layer to BottomLayer; = Αλλαγή στην Κάτω Στρώση;<br/>Αλλαγή Στρώσης Επιλεγμένου Συστατικού σε Κάτω Στρώση
+Change to Inner1 = Αλλαγή σε Εσωτερική 1
+Change to Inner2 = Αλλαγή σε Εσωτερική 2
+Change to Inner3 = Αλλαγή σε Εσωτερική 3
+Change to Inner4 = Αλλαγή σε Εσωτερική 4
+Highlight Net = Επισημάνετε Δίκτυο
+Highlight Network = Επισημάνετε Δίκτυο
+Unhighlight Network = Αφαίρεση Επισημάνσεως Δικτύου
+Place Pad = Τοποθέτηση Πατακίου
+Place Via = Τοποθέτηση Via
+Measure = Μέτρηση
+Change Routing Angle = Αλλαγή Γωνίας Δρομολόγησης
+Change Routing Conflict = Αλλαγή Σύγκρουσης Δρομολόγησης
+Decrease Routing Width = Μείωση Πλάτους Δρομολόγησης
+Increase Routing Width = Αύξηση Πλάτους Δρομολόγησης
+Decrease Snap Size = Μείωση Μεγέθους Σύνδεσης
+Increase Snap Size = Αύξηση Μεγέθους Σύνδεσης
+Change Copper Zone Visible or Invisible = Αλλαγή Ορατότητας Περιοχής Χαλκού
+Rebuild All Copper Area = Αναδημιουργία Όλης της Περιοχής Χαλκού
+Toggle PCB Net Display = Εναλλαγή Εμφάνισης Δικτύου PCB
+Show Property Dialog When Placing Object;<br/>Show Location Setting Dialog When Pasting Object(s) = Εμφάνιση Διαλόγου Ιδιοτήτων Κατά την Τοποθέτηση Αντικειμένου;<br/>Εμφάνιση Διαλόγου Ρύθμισης Τοποθεσίας Κατά την Επικόλληση Αντικειμένων
+Show Property Dialog When Placing Object;<br/>Show Absolute Offset Dialog When Selecting Object(s);<br/>Show Location Setting Dialog When Pasting Object(s) = Εμφάνιση Διαλόγου Ιδιοτήτων Κατά την Τοποθέτηση Αντικειμένου;<br/>Εμφάνιση Διαλόγου Απόλυτης Απόκλισης Κατά την Επιλογή Αντικειμένων;<br/>Εμφάνιση Διαλόγου Ρύθμισης Τοποθεσίας Κατά την Επικόλληση Αντικειμένων
+Show Relative Offset Dialog When Selecting Object(s) = Εμφάνιση Διαλόγου Σχετικής Απόκλισης Κατά την Επιλογή Αντικειμένων
+Open the FAQ Page = Άνοιγμα Σελίδας Συχνών Ερωτήσεων
+Move Object(s) by Reference Point = Μετακίνηση Αντικειμένων με Σημείο Αναφοράς
+Choose Favorite Track Width While Routing = Επιλογή Αγαπημένου Πλάτους Τροχιάς Κατά την Δρομολόγηση
+Copy Selected Object(s) and Paste Repeatedly = Αντιγραφή Επιλεγμένων Αντικειμένων και Επικόλληση Επαναληπτικά
+
+#My Projects Tree Menu
+New Project = Νέο Έργο
+New Schematic = Νέο Σχηματικό
+New PCB = Νέο PCB
+New Spice Subckt = Νέο Spice Subckt
+Modify = Τροποποίηση
+Delete = Διαγραφή
+Add sub part = Προσθήκη Υποαντικειμένου
+Clone = Κλωνοποίηση
+Version History = Ιστορικό Εκδόσεων
+Refresh List = Ενημέρωση Λίστας
+Create New Project = Δημιουργία Νέου Έργου
+Delete = Διαγραφή
+Attachment = Επισύναψη
+Archive = Αρχειοθέτηση
+Transfer = Μεταφορά
+Manage Project = Διαχείριση Έργου
+
+#Dialog Verify Package
+Footprints Verification = Επαλήθευση Πακέτου
+
+#Dialog Edit Polygon Pad points
+Edit Points = Επεξεργασία Σημείων
+Center point is outside the pad = Το κεντρικό σημείο είναι εκτός του πατακίου
+Hole should be inside the pad = Η τρύπα πρέπει να είναι μέσα στο πατάκι
+Hole is draggable = Η τρύπα είναι συρτός
+
+#My Part Tree Menu
+Clone = Κλωνοποίηση
+Reload parts = Επαναφόρτωση Συστατικών
+Layers = Στρώματα
+
+#Dialog Preferences
+Language = Γλώσσα
+Display Name = Όνομα Εμφάνισης
+HotKey Sync = Συγχρονισμός Συντόμευσης
+My Theme Sync = Συγχρονισμός Θέματος
+Document Recovery Setting = Ρυθμίσεις Ανάκτησης Εγγράφων
+Enable auto backup = Ενεργοποίηση αυτόματης δημιουργίας αντιγράφου ασφαλείας
+Maximum backup level = Μέγιστο επίπεδο αντιγράφου ασφαλείας
+Auto backup interval = Διάστημα αυτόματης δημιουργίας αντιγράφου ασφαλείας
+days = ημέρες
+hours = ώρες
+minutes = λεπτά
+seconds = δευτερόλεπτα
+Save to Server = Αποθήκευση στον Διακομιστή
+Load from Server = Φόρτωση από τον Διακομιστή
+
+
+#Dialog Schematic Library Wizard
+Symbol Wizard = Οδηγός Συμβόλων
+Style = Στυλ
+Picture = Εικόνα
+Pin Names = Ονόματα Ακίδων
+Contributor = Συγγραφέας
+contributor = συγγραφέας
+owner = ιδιοκτήτης
+
+#Dialog Annotate
+Annotate = Σχολιασμός
+Scope = Εύρος
+All pages = Όλες οι σελίδες
+Current page only = Μόνο η τρέχουσα σελίδα
+Selected components = Επιλεγμένα εξαρτήματα
+All Opened Schematics = Όλα τα Ανοιχτά Σχηματικά
+Method = Μέθοδος
+Re-annotate all = Επανασχολιασμός όλων
+Keep existing annotation = Διατήρηση υπάρχοντος σχολιασμού
+Direction = Κατεύθυνση
+Rows = Γραμμές
+Cols = Στήλες
+Reset = Επαναφορά
+
+#Dialog Order
+Order... = Παραγγελία...
+PCB Qty. = Ποσότητα PCB
+PCB Thickness = Πάχος PCB
+PCB Dimension = Διάσταση PCB
+Automatic calculation = Αυτόματος υπολογισμός
+PCB Color = Χρώμα PCB
+Green = Πράσινο
+White = Λευκό
+Blue = Μπλε
+Red = Κόκκινο
+Yellow = Κίτρινο
+Black = Μαύρο
+Purple = Μωβ
+Copper = Χαλκός
+Gold = Χρυσό
+Silver = Ασημί
+Surface Finish = Φινίρισμα Επιφάνειας
+Hasl = HASL
+Hasl(Lead Free) = HASL (Χωρίς Μόλυβδο)
+ENIG = ENIG
+
+#Dialog Hot Key config
+Restore All Default Shortcuts = Επαναφορά Όλων των Προεπιλεγμένων Συντομεύσεων
+Save Changes = Αποθήκευση Αλλαγών
+
+
+
+#Dialog Polyline Maybe Wire
+To connect electrical elements, please use Wire (W hotkey) and not Line (L hotkey). = Για να συνδέσετε τα ηλεκτρικά στοιχεία, παρακαλώ χρησιμοποιήστε το Καλώδιο (συντόμευση W) και όχι τη Γραμμή (συντόμευση L).
+
+Anonymous File = Ανώνυμο Αρχείο
+Anonymous File can not be cloned, but you can open it, then save it as a new file. = Το Ανώνυμο Αρχείο δεν μπορεί να κλωνοποιηθεί, αλλά μπορείτε να το ανοίξετε και στη συνέχεια να το αποθηκεύσετε ως νέο αρχείο.
+Free Documents = Δωρεάν Έγγραφα
+You must close the file before delete it! = Πρέπει να κλείσετε το αρχείο πριν το διαγράψετε!
+Offline Project = Έργο Εκτός Σύνδεσης
+
+#Message box
+Confirmation = Επιβεβαίωση
+Alert = Προειδοποίηση
+Information = Πληροφορίες
+information = πληροφορίες
+Prompt = Προτροπή
+Error = Σφάλμα
+error = σφάλμα
+error! = σφάλμα!
+Warning = Προειδοποίηση
+Imported ok! = Εισαγωγή επιτυχής!
+Some changes have not been saved. = Κάποιες αλλαγές δεν έχουν αποθηκευτεί.
+Your file hasn't been saved. Please save first! = Το αρχείο σας δεν έχει αποθηκευτεί. Παρακαλώ αποθηκεύστε πρώτα!
+Your file hasn't been saved. Are you sure you want to close it? = Το αρχείο σας δεν έχει αποθηκευτεί. Είστε σίγουροι ότι θέλετε να το κλείσετε;
+Error! Please try again later. = Σφάλμα! Παρακαλώ δοκιμάστε ξανά αργότερα.
+Are you sure you want to reload this page? = Είστε σίγουροι ότι θέλετε να επαναφορτώσετε αυτή τη σελίδα;
+Are you sure you want to leave this page? = Είστε σίγουροι ότι θέλετε να φύγετε από αυτή τη σελίδα;
+Confirm Reload = Επιβεβαίωση Επαναφόρτωσης
+Confirm Close = Επιβεβαίωση Κλεισίματος
+Reload this page = Επαναφόρτωση αυτής της σελίδας
+Leave this page = Άφησε αυτή τη σελίδα
+Stay on this page = Μείνετε σε αυτή τη σελίδα
+Don't reload = Μην επαναφορτώσετε
+No connect flag only can be placed on Pin dot or the wire which is connected one Pin. = Η ένδειξη "No Connect" μπορεί να τοποθετηθεί μόνο σε σημείο ακίδας ή σε καλώδιο που είναι συνδεδεμένο με μία ακίδα.
+can not be placed on the wire which is placing No Connect Flag. = Δεν μπορεί να τοποθετηθεί στο καλώδιο στο οποίο τοποθετείται η ένδειξη "No Connect".
+The footprint transfer to LCSC library class successfully = Η μεταφορά του footprint στην κατηγορία βιβλιοθήκης LCSC ολοκληρώθηκε επιτυχώς
+Device/Footprint goes into "SMT Device/Footprint Verified" list successfully = Η συσκευή/footprint μπήκε επιτυχώς στη λίστα "SMT Device/Footprint Verified"
+
+Load failure! = Αποτυχία φόρτωσης!
+Load projects failed = Αποτυχία φόρτωσης έργων
+error info = πληροφορίες σφάλματος
+error information = πληροφορίες σφάλματος
+Guest can't create a new project. Please login! = Ο επισκέπτης δεν μπορεί να δημιουργήσει νέο έργο. Παρακαλώ συνδεθείτε!
+Please create a project before you do this! = Δημιουργήστε ένα έργο πριν το κάνετε αυτό!
+Add Part success = Προσθήκη μέρους επιτυχής
+Click the new part and then edit it! = Κάντε κλικ στο νέο μέρος και επεξεργαστείτε το!
+Delete my work = Διαγραφή της εργασίας μου
+Delete my work. (Only deletes it from this list but not from the server) = Διαγραφή της εργασίας μου. (Διαγράφει μόνο από αυτή τη λίστα, όχι από τον διακομιστή)
+Do you confirm this? = Επιβεβαιώνετε αυτό;
+Successfully deleted! = Διαγράφηκε επιτυχώς!
+Successfully Copied! = Αντιγράφηκε επιτυχώς!
+Cloning success! = Επιτυχία κλωνοποίησης!
+Your title is too short! = Ο τίτλος σας είναι πολύ σύντομος!
+Remove this part = Αφαιρέστε αυτό το μέρος
+Find and Jump to ... = Βρείτε και μεταβείτε σε ...
+Please type the prefix, such as U1, R1, C1 = Παρακαλώ πληκτρολογήστε το πρόθεμα, π.χ. U1, R1, C1
+Zoom as 1:1, you can print it and then create artwork for etching the PCB. = Ζουμ 1:1, μπορείτε να το εκτυπώσετε και να δημιουργήσετε καλλιτεχνικό έργο για την χαράκωση του PCB.
+Exporting your works! = Εξαγωγή των έργων σας!
+Guests can't import a file. Please login! = Οι επισκέπτες δεν μπορούν να εισάγουν αρχείο. Παρακαλώ συνδεθείτε!
+Please create a project before you import a file! = Δημιουργήστε ένα έργο πριν εισάγετε αρχείο!
+Import your LTspice file! = Εισάγετε το αρχείο LTspice σας!
+Open LTspice file = Άνοιγμα αρχείου LTspice
+Open EasyEDA file = Άνοιγμα αρχείου EasyEDA
+Please make sure the selected LTspice file is a file saved in LTspice V and above. = Παρακαλώ βεβαιωθείτε ότι το επιλεγμένο αρχείο LTspice είναι αρχείο αποθηκευμένο σε LTspice V και πάνω.
+Saved successfully! = Αποθηκεύτηκε επιτυχώς!
+Save failed! = Αποτυχία αποθήκευσης!
+Can not place parts into this document. = Δεν μπορείτε να τοποθετήσετε μέρη σε αυτό το έγγραφο.
+User Package = Πακέτο χρήστη
+System Package = Πακέτο συστήματος
+File error = Σφάλμα αρχείου
+Please save your file first! = Παρακαλώ αποθηκεύστε το αρχείο σας πρώτα!
+Email address is too short! = Η διεύθυνση email είναι πολύ σύντομη!
+You have not selected a file to upload. = Δεν έχετε επιλέξει αρχείο για αποστολή.
+Update = Ενημέρωση
+No changes, the PCB already matches the schematic! = Δεν υπάρχουν αλλαγές, το PCB αντιστοιχεί ήδη στο σχέδιο!
+Only public files can be shared = Μόνο δημόσια αρχεία μπορούν να κοινοποιηθούν
+Conversion to PCB has failed! = Η μετατροπή σε PCB απέτυχε!
+Your username is too short! = Το όνομα χρήστη σας είναι πολύ σύντομο!
+Your password is too short, it must be more than 6 characters! = Ο κωδικός πρόσβασής σας είναι πολύ σύντομος, πρέπει να είναι πάνω από 6 χαρακτήρες!
+Conflicting shortcut = Σύγκρουση συντόμευσης
+There is an empty PCB file. Please first run Convert Schematic to PCB... from the schematic = Υπάρχει ένα κενό αρχείο PCB. Παρακαλώ εκτελέστε πρώτα τη μετατροπή του Σχεδίου σε PCB... από το σχέδιο
+This file has been modified, are you sure you want to run this simulation before saving it first? = Αυτό το αρχείο έχει τροποποιηθεί, είστε σίγουροι ότι θέλετε να εκτελέσετε αυτή τη προσομοίωση πριν το αποθηκεύσετε πρώτα;
+Please enter the Maximum Timestep! = Παρακαλώ εισάγετε το Μέγιστο Βήμα Χρόνου!
+Please enter the Stop Time! = Παρακαλώ εισάγετε τον Χρόνο Σταματήματος!
+All of these fields are needed. = Όλα αυτά τα πεδία είναι απαραίτητα.
+Either your spice netlist is too big or the server is busy. Please try again later. = Ή η λίστα σύνδεσης spice είναι πολύ μεγάλη ή ο διακομιστής είναι απασχολημένος. Παρακαλώ προσπαθήστε ξανά αργότερα.
+Your spice netlist is too big! Try breaking your circuit into smaller simulatable blocks. = Η λίστα σύνδεσης spice είναι πολύ μεγάλη! Προσπαθήστε να χωρίσετε το κύκλωμά σας σε μικρότερα μπλοκ που μπορούν να προσομοιωθούν.
+Too many users in simulation. Please try again later! = Υπάρχουν πάρα πολλοί χρήστες στην προσομοίωση. Παρακαλώ προσπαθήστε ξανά αργότερα!
+Due to limited server resources, please wait 10 seconds for the interval in every time simulation. = Λόγω περιορισμένων πόρων διακομιστή, παρακαλώ περιμένετε 10 δευτερόλεπτα για το διάστημα κάθε φορά στην προσομοίωση.
+Your circuit is too complex, we have not enough CPU resource to support this simulation, please reduce your circuit as small as you can. = Το κύκλωμά σας είναι πολύ σύνθετο, δεν έχουμε αρκετούς πόρους CPU για να υποστηρίξουμε αυτή τη προσομοίωση, παρακαλώ μειώστε το κύκλωμά σας όσο το δυνατόν περισσότερο.
+Simulation is queuing, try again after 30s. = Η προσομοίωση βρίσκεται σε ουρά, προσπαθήστε ξανά μετά από 30 δευτερόλεπτα.
+Timeout = Χρόνος εξάντλησης
+Demo accounts don't support simulation, please login first = Οι λογαριασμοί demo δεν υποστηρίζουν προσομοίωση, παρακαλώ συνδεθείτε πρώτα
+Please login first = Παρακαλώ συνδεθείτε πρώτα
+The schematic is showing errors, please check the simulation report carefully! = Το σχέδιο εμφανίζει σφάλματα, παρακαλώ ελέγξτε προσεκτικά την αναφορά προσομοίωσης!
+Simulation too long, maybe your schematic is too complex. = Η προσομοίωση διαρκεί πολύ, ίσως το σχέδιο σας είναι πολύ σύνθετο.
+Non-simulated file = Μη προσομοιωμένο αρχείο
+This file can only be opened in standard mode. To open it, please switch to standard mode. = Αυτό το αρχείο μπορεί να ανοιχτεί μόνο σε κανονική λειτουργία. Για να το ανοίξετε, παρακαλώ μεταβείτε σε κανονική λειτουργία.
+Load your preferences success! = Φόρτωση των προτιμήσεών σας επιτυχής!
+Save your preferences success! = Αποθήκευση των προτιμήσεών σας επιτυχής!
+Update subckt ok! = Ενημέρωση subckt επιτυχής!
+Clone your file = Κλωνοποιήστε το αρχείο σας
+Please type a new file name = Παρακαλώ πληκτρολογήστε ένα νέο όνομα αρχείου
+Create file failure! = Αποτυχία δημιουργίας αρχείου!
+Schematics and PCBs can't be imported under My Libs folder, please choose a different folder = Τα σχέδια και τα PCB δεν μπορούν να εισαχθούν στον φάκελο "My Libs", παρακαλώ επιλέξτε έναν διαφορετικό φάκελο
+Libraries to be imported under My Libs folder = Βιβλιοθήκες προς εισαγωγή στον φάκελο "My Libs"
+Please choose only the libraries needed = Παρακαλώ επιλέξτε μόνο τις απαραίτητες βιβλιοθήκες
+Maximum import is 200 libs at one time! = Μέγιστη εισαγωγή 200 βιβλιοθηκών τη φορά!
+You libraries will be found under the My Libs folder = Οι βιβλιοθήκες σας θα βρεθούν στον φάκελο "My Libs"
+Add to Library = Προσθήκη στη βιβλιοθήκη
+No items have been checked! = Δεν έχουν επιλεγεί στοιχεία!
+Nothing was found, please create it for yourself = Δεν βρέθηκε τίποτα, παρακαλώ δημιουργήστε το μόνοι σας
+Search result = Αποτέλεσμα αναζήτησης
+At least 3 characters needed = Απαιτούνται τουλάχιστον 3 χαρακτήρες
+Add to my Favorite Parts = Προσθήκη στα αγαπημένα μέρη μου
+Added it OK. Please find it in your Favorite Parts = Προστέθηκε επιτυχώς. Παρακαλώ βρείτε το στα αγαπημένα μέρη σας
+Please select its parent node = Παρακαλώ επιλέξτε τον γονικό κόμβο του
+Libraries can not be exported as active project pdf. = Οι βιβλιοθήκες δεν μπορούν να εξαχθούν ως ενεργό αρχείο PDF έργου
+Error:No GND = Σφάλμα:Δίχως GND
+This circuit does not have GND. Please select GND from the circuit tool to add to the circuit. = Αυτό το κύκλωμα δεν έχει γείωση (GND). Παρακαλώ επιλέξτε τη γείωση από το εργαλείο κυκλώματος για να την προσθέσετε στο κύκλωμα.
+Current circuit doesn't have Voltage Resource or Current Resource symbol, please place it first at left side EElib or Spice Library. = Το τρέχον κύκλωμα δεν έχει σύμβολο για Πηγή Τάσης ή Πηγή Ρεύματος, παρακαλώ τοποθετήστε το πρώτα από την αριστερή πλευρά της βιβλιοθήκης EElib ή Spice.
+Probe can not connect with ground(GND)! = Η ανιχνευτής δεν μπορεί να συνδεθεί με τη γείωση (GND)!
+Spice symbols's properties can't be empty. = Οι ιδιότητες των συμβόλων Spice δεν μπορούν να είναι κενές.
+Error:No Spice Symbol = Σφάλμα: Δεν υπάρχει σύμβολο Spice
+Simulation limit = Όριο προσομοίωσης
+There is a multimeter in the circuit that needs to be simulated using the emulation command .tran or .op = Υπάρχει ένα πολύμετρο στο κύκλωμα που πρέπει να προσομοιωθεί χρησιμοποιώντας την εντολή προσομοίωσης .tran ή .op
+An oscilloscope exists in the circuit and needs to be simulated using the simulation command .tran = Υπάρχει ένα παλμογράφος στο κύκλωμα και πρέπει να προσομοιωθεί χρησιμοποιώντας την εντολή προσομοίωσης .tran
+There are components in this circuit that do not have a simulation model. Please use the base library component of the simulation mode for simulation. = Υπάρχουν εξαρτήματα σε αυτό το κύκλωμα που δεν έχουν μοντέλο προσομοίωσης. Παρακαλώ χρησιμοποιήστε το βασικό εξάρτημα της βιβλιοθήκης για τη λειτουργία προσομοίωσης.
+Circuit does not have a probe = Το κύκλωμα δεν έχει ανιχνευτή
+Make sure your pin numbers are even numbers = Βεβαιωθείτε ότι οι αριθμοί των ακίδων σας είναι άρτιοι
+Duplicate Components Prefix = Διπλότυπο Πρόθεμα Εξαρτημάτων
+All components are hidden successfully! = Όλα τα εξαρτήματα κρύφτηκαν επιτυχώς!
+All ratlines are hidden successfully! = Όλες οι γραμμές σύνδεσης κρύφτηκαν επιτυχώς!
+Hidden the ratline of net {netName} successfully! = Η γραμμή σύνδεσης του δικτύου {netName} κρύφτηκε επιτυχώς!
+Duplicate Component Prefix = Διπλότυπο Πρόθεμα Εξαρτημάτων
+{0} exist = Υπάρχει το {0}
+Modify successfully, but {0} already exists = Τροποποιήθηκε επιτυχώς, αλλά το {0} ήδη υπάρχει
+There are some invalid packages, are you sure? = Υπάρχουν κάποια άκυρα πακέτα, είστε σίγουροι;
+Invalid Characters, library only allows [0-9a-zA-Z-] = Άκυροι χαρακτήρες, η βιβλιοθήκη επιτρέπει μόνο τους χαρακτήρες [0-9a-zA-Z-]
+Annotation success = Επιτυχής σχολιασμός
+If you accept this annotation operation, please save your files. If not, close your files without saving. = Εάν αποδεχτείτε αυτή τη λειτουργία σχολιασμού, παρακαλώ αποθηκεύστε τα αρχεία σας. Εάν όχι, κλείστε τα αρχεία σας χωρίς αποθήκευση.
+This file can't be saved under libs project. Please choose other project or create a new project = Αυτό το αρχείο δεν μπορεί να αποθηκευτεί στο έργο "libs". Παρακαλώ επιλέξτε άλλο έργο ή δημιουργήστε νέο έργο
+Your file is unsaved. = Το αρχείο σας δεν έχει αποθηκευτεί.
+You can close the editor now. Have a good day! = Μπορείτε να κλείσετε τώρα τον επεξεργαστή. Καλή σας μέρα!
+Successfully logged out = Αποσυνδέθηκα επιτυχώς
+You have at least one unsaved file open. Please save it or close it. = Έχετε τουλάχιστον ένα μη αποθηκευμένο αρχείο ανοιχτό. Παρακαλώ αποθηκεύστε το ή κλείστε το.
+Please select a reference point = Παρακαλώ επιλέξτε ένα σημείο αναφοράς
+Please save your file before this operation = Παρακαλώ αποθηκεύστε το αρχείο σας πριν από αυτή τη λειτουργία
+Please open a PCB document = Παρακαλώ ανοίξτε ένα έγγραφο PCB
+Please save your file before '{0}'. = Παρακαλώ αποθηκεύστε το αρχείο σας πριν από το '{0}'.
+Please try again after saving this file. = Παρακαλώ δοκιμάστε ξανά αφού αποθηκεύσετε αυτό το αρχείο.
+This text can not be empty! = Αυτό το κείμενο δεν μπορεί να είναι κενό!
+Export to Altium fail, please try again or contact us. = Αποτυχία εξαγωγής στο Altium, παρακαλώ δοκιμάστε ξανά ή επικοινωνήστε μαζί μας.
+Connecting to server = Σύνδεση στον διακομιστή
+Please login before asking for help = Παρακαλώ συνδεθείτε πριν ζητήσετε βοήθεια
+This file has been modified, please save it first! = Αυτό το αρχείο έχει τροποποιηθεί, παρακαλώ αποθηκεύστε το πρώτα!
+Remove this param = Αφαιρέστε αυτή την παράμετρο
+You cannot drag a part to the canvas, please click the part and move the cursor to the canvas and then right-click to place. = Δεν μπορείτε να σύρετε ένα εξάρτημα στον καμβά, παρακαλώ κάντε κλικ στο εξάρτημα και μετακινήστε τον κέρσορα στον καμβά και μετά κάντε δεξί κλικ για να το τοποθετήσετε.
+Undo/Redo temporary error = Προσωρινό σφάλμα αναίρεσης/επανάληψης
+We are sorry but there is an unpredictable error in the undo/redo process. This problem will be fixed soon but in the meanwhile it is safe to continue working on your design. = Συγγνώμη, αλλά υπάρχει ένα απρόβλεπτο σφάλμα στη διαδικασία αναίρεσης/επανάληψης. Το πρόβλημα θα επιλυθεί σύντομα, αλλά εν τω μεταξύ είναι ασφαλές να συνεχίσετε την εργασία σας στο σχέδιο.
+The schematic has duplicate prefixes of the components, please make them unique. You can check them using the Design Manager. = Το διάγραμμα έχει διπλά πρόθεματα στα εξαρτήματα, παρακαλώ κάντε τα μοναδικά. Μπορείτε να τα ελέγξετε χρησιμοποιώντας τον Διαχειριστή Σχεδίων.
+Found duplicated prefix components, can not Import Changes, please modify the duplicated prefix or delete related component. = Βρέθηκαν εξαρτήματα με διπλότυπο πρόθεμα, δεν μπορεί να γίνει Εισαγωγή Αλλαγών, παρακαλώ τροποποιήστε το διπλότυπο πρόθεμα ή διαγράψτε το σχετικό εξάρτημα.
+Please click the below help button to find out how to fix this problem. = Παρακαλώ κάντε κλικ στο κουμπί βοήθειας παρακάτω για να μάθετε πώς να διορθώσετε αυτό το πρόβλημα.
+Please create a board outline! Click the help button to find out how to create a board outline. = Παρακαλώ δημιουργήστε το περίγραμμα της πλακέτας! Κάντε κλικ στο κουμπί βοήθειας για να μάθετε πώς να δημιουργήσετε το περίγραμμα της πλακέτας.
+Can not fetch files from server, please check your network and try again = Δεν μπορεί να ανακτηθούν αρχεία από τον διακομιστή, παρακαλώ ελέγξτε το δίκτυό σας και δοκιμάστε ξανά
+Please open a schematic first! = Παρακαλώ ανοίξτε πρώτα ένα διάγραμμα!
+Can not find the schematic of this PCB = Δεν μπορεί να βρεθεί το διάγραμμα αυτής της PCB
+Invalid points! = Άκυρα σημεία!
+This file does not support this operation. = Αυτό το αρχείο δεν υποστηρίζει αυτή τη λειτουργία.
+Net Name Conflict = Σύγκρουση ονόματος δικτύου
+Net name = Όνομα δικτύου
+{0} are in the same wire, please remove others and just keep one. = {0} βρίσκονται στο ίδιο καλώδιο, παρακαλώ αφαιρέστε τα υπόλοιπα και κρατήστε μόνο ένα.
+This field can't be removed! = Αυτό το πεδίο δεν μπορεί να αφαιρεθεί!
+Annular ring of the pad/via is too small = Ο δακτύλιος του pad/via είναι πολύ μικρός
+The size of the hole cannot exceed the size of the pad = Το μέγεθος της τρύπας δεν μπορεί να ξεπεράσει το μέγεθος του pad
+Are you sure you want to create a multi-sheet designs? = Είστε σίγουροι ότι θέλετε να δημιουργήσετε σχέδια με πολλαπλά φύλλα;
+Are you sure you want to create a {0}multi-sheet designs{1}? = Είστε σίγουροι ότι θέλετε να δημιουργήσετε {0}σχέδια με πολλαπλά φύλλα{1};
+Please build the copper area! Click the help button to find out how to build the copper area. = Παρακαλώ δημιουργήστε την περιοχή χαλκού! Κάντε κλικ στο κουμπί βοήθειας για να μάθετε πώς να δημιουργήσετε την περιοχή χαλκού.
+Suggest to set a package for this component first! = Σας προτείνουμε να ορίσετε πρώτα ένα πακέτο για αυτό το εξάρτημα!
+Please select an opened document first. = Παρακαλώ επιλέξτε πρώτα ένα ανοιχτό έγγραφο.
+Some files failed to load. Please reload the page. = Μερικά αρχεία απέτυχαν να φορτωθούν. Παρακαλώ επαναφορτώστε τη σελίδα.
+
+#UI Intro
+Skip =
+« Back =
+Next » =
+Done =
+This is the user management menu. =
+This is the toolbar. =
+This is the navigation list. Under here you can find projects, files, parts and libraries. =
+Show or hide the toolbar to the top of the window here. =
+Show, resize or hide the left sidebar to the left of the window here. =
+Show or hide the right sidebar to the right of the window here. =
+
+#Standard libs
+Passive Components =
+Power Supply =
+Diodes =
+Regulator =
+Transistor =
+Transformers =
+Gates =
+Vacuum Tubes =
+Switch =
+Relay =
+Capacitor(US) =
+Capacitor(EU) =
+Capacitor(EU)2 =
+Electrolytic Capacitor(US) =
+Electrolytic Capacitor(EU) =
+Electrolytic Capacitor(US)2 =
+Electrolytic Capacitor(EU)2 =
+Inductor(US) =
+Inductor(EU) =
+Potentiometer_US =
+Potentiometer_EU/IEC =
+Potentiometer_3D =
+Resistor(US) =
+Resistor(EU) =
+Resistor 45 Deg(US) =
+Resistor 45 Deg(EU) =
+Variable Capacitor(US) =
+Variable Capacitor(EU) =
+Variable Resistor(US) =
+Variable Resistor(EU) =
+Variable Inductor(US) =
+Variable Inductor(EU) =
+Varistor =
+Inductor2(US) =
+Inductor2(EU) =
+Battery =
+Voltage Source =
+Current Source =
+CCCS(Current Controlled Current Source) =
+CCCS2(Current Controlled Current Source) =
+VCCS(Voltage Controlled Current Source) =
+VCVS(Voltage Controlled Voltage Source) =
+CCVS(Current Controlled Voltage Source) =
+CCVS2(Current Controlled Voltage Source) =
+
+BV(Behavioral Voltage Sources) =
+BI(Behavioral Voltage Sources) =
+Epoly(Non-linear Voltage Source) =
+Gpoly(Non-linear Current Source) =
+
+Diode =
+LED =
+LED_3D =
+Schottky Diode =
+Varactor Diode =
+Zener =
+Unidirectional TVS Diode =
+Bidirectional TVS Diode =
+Diac =
+Bridge =
+78XX =
+79XX =
+LM317 =
+LM337 =
+TL431 =
+BJT(NPN) =
+BJT(PNP) =
+MOSFET(Nch) =
+MOSFET(Nch) Depletion Four-pins =
+MOSFET(Nch) Enhancement =
+MOSFET(Nch) Enhancement Four-pins =
+MOSFET(Pch) =
+MOSFET(Pch) Depletion Four-pins =
+MOSFET(Pch) Enhancement =
+MOSFET(Pch) Enhancement Four-pins =
+JFET(Nch) =
+JFET(Pch) =
+Darlington NPN =
+Darlington PNP =
+MESFET(Nch) =
+MESFET(Pch) =
+
+IGBT =
+SCR =
+Triac =
+Transform(US) =
+Transform(EU) =
+Transfrom(NEUTRAL-CTR TAP)(US) =
+Transfrom(NEUTRAL-CTR TAP)(EU) =
+Mutual Inductors =
+Mutual Inductors2 =
+Or Gate =
+Xor Gate =
+And Gate =
+Nor Gate =
+Nand Gate =
+Not Gate =
+Xnor Gate =
+Tube Diode =
+Tube Triode =
+Tube Tetrode =
+Tube Pentode =
+Voltage Controlled Switch =
+Current Controlled Switch =
+SPST ON =
+SPST OFF =
+Fuse =
+555 =
+555(Style2) =
+Speaker =
+XTAL =
+5pin Operational Amplifier =
+3pin Operational amplifier =
+Transmission Line =
+Voltmeter =
+Ammeter =
+LAMP =
+Opto Transistor =
+
+#Server Message
+Need login =
+Bad password =
+We can't find your username or your email, please check it! =
+Make sure your uploaded file size is less than 3MB! =
+Bad file type =
+Empty file or bad file type, ensure your file is Eagle 6.0+ =
+This operation not supported on demo account =
+Can not share this file under a private project, please set the active project to public! =
+Login Failed Too many attempts. If you forgot your password, please {0}reset your password{1} or send an email to support@easyeda.com =
+
+#Dialog Common Buttons
+Common Buttons Setting =
+Menu Setting... =
+Show/Hide =
+Move Up =
+Move Down =
+Reset All =
+Zoom =
+Place Pin =
+
+#System Setting Dialog
+System =
+Zoom Mode =
+Scroll Key =
+CTRL + Scroll =
+Canvas Coordinate System =
+SVG Coordinate =
+Cartesian Coordinate =
+Open Wizard Dialog for New Schematic =
+Default Unit =
+Canvas Zoom Effect =
+Quality Priority =
+Speed Priority =
+Rotation Step =
+Add Teardrop Automatically =
+Assign Net for Free Track/Arc/Circle =
+Open Wizard Dialog for New PCB =
+Rebuild Plane Automatically =
+The Track's Routing Follows Component's Rotation =
+Display Pad's Number and Net =
+Favorite Track width =
+Track Width Setting =
+
+#Dialog Access Control
+Permissions =
+Operations =
+Access Control =
+Project Access Control =
+Reject =
+Add User =
+Bad email address =
+Permissions Error =
+
+#error info from backend
+Can't find this email address in EasyEDA. Your partner must be an EasyEDA user. =
+
+#Dialog waveForm
+Grid Background =
+Pane Background =
+WaveForm Config =
+Export Waveform =
+
+
+#attr-canvas-grid-style
+dot =
+line =
+
+#attr-canvas-frame-size
+Other =
+A4 Portrait =
+A4 Landscape =
+A3 Portrait =
+A3 Landscape =
+A2 Portrait =
+A2 Landscape =
+A1 Portrait =
+A1 Landscape =
+Landscape =
+Portrait =
+
+#Stroke Style
+solid =
+dashed =
+dotted =
+
+#Solid Region
+Solid Region =
+Type =
+type =
+
+#Dialog Libs Management
+Report error =
+Please give us some information to help us find the problem. =
+Cannot place parts into this document: Schematic Symbols can only be placed into a Schematic; PCB Footprints can only be placed into a PCB. =
+Save it as a favorite part =
+Only logged-in users can save this component as a Favorite Part but guest (Anonymous) users can place this component into their design directly. Would you like to place this component now? =
+
+#Others
+Find libs =
+My Projects =
+My Parts =
+My Modules =
+Assembly LCSC Components =
+Modules =
+SCH Module =
+PCB Module =
+System IC =
+LCSC (Official) =
+LCSC Electronics =
+Simple Mode =
+Expand Mode =
+Help Verify =
+Favorite Parts =
+Shared With Me =
+Preview =
+Preview Window =
+System Default =
+User Defined =
+Theme =
+Theme Setting =
+Close =
+Open =
+Toggle toolbar =
+Toggle left bar =
+Toggle right bar =
+Reload =
+Mouse-X =
+Mouse-Y =
+Mouse-DX =
+Mouse-DY =
+Bus entry x1 =
+Bus entry x2 =
+Bus entry y1 =
+Bus entry y2 =
+Yes =
+No =
+OK =
+Confirm =
+Continue =
+Cancel =
+Update =
+Bus entry =
+Filter =
+Check =
+Share my work =
+Share it by e-mail, IM, blog, etc. =
+
+Copy the contents of this box into a text editor, then save the file. Paste the edited text back into this box and click Apply to update the display. =
+Copy the contents of this box into a text editor, then save the file with a .svg extension. You can edit it in Inkscape or open it in your browser. =
+Content is too big to show, you can download it directly. =
+SVG format =
+SVG File =
+Description should be no more than 250 letters =
+The file save operation has timed out. Try again and check your Internet connection. =
+Export Netlist =
+Notifications =
+Please select txt or json files. =
+Please select EasyEDA files. =
+Failed to read file [{file}] =
+[{file}] is not a valid json file =
+Invalid parameters! =
+Download =
+Start =
+You have unsaved files, are you sure you want to log out without saving the files? =
+Please use the web version to run this function. =
+Please save this file to you project! =
+Nothing changed =
+Delete Node =
+This layer is invisible. =
+When the solid region is Board Cutout, please set the layer to Multi-Layer. =
+You should not try to assign a net to a Board Cutout solid region. =
+Net Length =
+You can place a Pin in the schematic, but don't forget to group all of the Pins to a schematic component. Please click the help button to find out how to group them. If you just want to mark the wire, please use NetPort or NetLabel. =
+Please input the modification =
+The content must be between {0} and {1} characters =
+Please input a number between {0} and {1} =
+
+Coming soon =
+No tool =
+Help us translate into your language =
+Pad =
+Via/Hole =
+PCB Layers =
+Order PCB =
+Share =
+Free =
+Small =
+Medium =
+Big =
+
+
+Embed =
+HTML =
+URL =
+BBCode =
+PNG =
+Exporting as =
+Exporting as image =
+Exporting as {0}SVG{1} file. =
+Exporting as pdf is recommended: pdf gives good quality printed output and a small file size. =
+Generate PCB Fabrication File(Gerber) =
+PenWidth-Increase =
+
+#Generate Gerber
+Generate Gerber =
+Gerber View =
+Dimensions =
+1-2 days =
+Build Time =
+Dimensions(Estimated) =
+PCB Qty =
+Copper Weight =
+PCB Price =
+Estimated Delivery Time =
+
+HASL(with lead) =
+LeadFree HASL-RoHS =
+ENIG-RoHS =
+Would you like to do Design Rule Checking (DRC) before generating the Gerber files? =
+Yes, Check DRC =
+No, Generate Gerber =
+No, Continue to order =
+This PCB has uncompleted connection(s), do you want to check the connection(s)? =
+Yes, Check Connection(s) =
+It will then redirect to the web site of a third-party JLCPCB with which we cooperate. Are you ready? =
+Failed to submit your order, please contact us via support@easyeda.com for help. =
+Failed to submit your order, please contact us. =
+Order data(Gerber, Pick and Place file, BOM) generated finish, please click OK button and continue. =
+[generateGerber]
+Layers =
+[/generateGerber]
+
+[version]
+Switch =
+[/version]
+
+
+Export your file, then print it yourself. =
+Trace width is too small =
+Share =
+
+Images Property =
+Connect Pad to Pad =
+Copper Area =
+Dimension =
+
+
+Please check that you have used Wire and not Line to connect electrical elements. =
+PCB Fabrication Prices & capabilities =
+Flip all texts on bottom layer =
+Create New Document =
+General Package =
+General Packages =
+favorite Package =
+Board Cutout =
+Surface Mount =
+JLCPCB Part Class =
+base =
+expand =
+recommend =
+Basic Part =
+Extended Part =
+Recommended Part =
+smtWeld =
+thtWeld =
+manualWeld =
+furnaceWeld =
+Multi-Layer =
+Markdown Syntax =
+Markdown supported =
+Read only =
+Read/Write =
+More Libraries... =
+Decompress failed! =
+Load failed! =
+Loading =
+No Result =
+
+#Dialog Place Pin in schematic warning
+Place Pin in schematic warning =
+You can place a Pin in schematic, but don't forget to group all of the Pins to a schematic component, please click the help button to find out how to group them. If you just want to mark the wire, please use NetPort or NetLabel. =
+I know. Do not show this again. =
+
+#Extensions Setting
+Extensions Setting =
+Remove =
+Disable =
+Enable =
+(Disabled) =
+(Enabled) =
+Load Extension =
+Enable or disable will be applied after reload page =
+Your browser cannot run this function. =
+Your browser mode does not support indexedDB. Some features may not work properly. Are you using Private Browsing Mode? =
+Extension Files =
+Extension ID =
+Select Files =
+
+#Scripts
+Script =
+Scripts =
+Script Content =
+Load from js file =
+UTF-8 encoded js file =
+Description =
+description =
+Not a *.js file =
+Failed to read file =
+System scripts cannot be modified =
+Create Subfolder =
+Create Script =
+Install Script =
+Install =
+Desktop Client =
+Are you sure you want to remove this script? =
+Folder Name =
+Rename =
+Please select a script =
+Failed to load script =
+Run Script =
+Load Script =
+Title is required =
+Script content is required =
+System Scripts =
+User Scripts =
+You can right click on the tree nodes. =
+
+#PCB photoView toolbar
+Top Side =
+Bottom Side =
+With Silk Layer =
+No Silk Layer =
+Photo View =
+
+#check update
+Check Update =
+EasyEDA Editor {ver} is released. Would you like to switch to the new version now? =
+JLCEDA Editor {ver} is released. Would you like to switch to the new version now? =
+Switch to New Version =
+Next Time =
+
+#download project dialog
+Generating download link... =
+Download project now =
+
+#Import DXF
+Import DXF =
+Apply Unit =
+Convert circle to HOLE on BoardOutLine layer =
+No shapes found =
+Fail to load the file =
+Please select a DXF file. =
+This feature only works for PCB document. =
+Select a DXF file =
+
+#Export DXF
+Export DXF =
+Plated-Through-Hole Pads =
+Non-Plated-Through-Hole Pads =
+Silkscreen =
+Surface Pad =
+
+#Data Sync
+Data Sync =
+Data Conflicts =
+Project or Document =
+Cloud-Side =
+Local-Side =
+Decision =
+Modified =
+Deleted =
+As Cloud =
+As Local =
+Skip =
+Data sync completed =
+
+#Team
+Team =
+Teams =
+Switching team =
+Switch team failed =
+Load team info fail! =
+Load team info fail! Please reload. =
+My Teams =
+Create Team =
+
+#Dialog Footprint Manager
+Footprint Manager =
+Open Footprint Manager =
+Schematic Components =
+Edit Pin Map Information =
+Package Categories =
+Components List =
+Personal =
+Component PIN information =
+Footprint PAD information =
+Footprint Categories =
+Pad Number =
+Search Footprint =
+Select Footprint =
+Search 3D Model =
+Select 3D Model =
+Filter by keyword =
+System Libs =
+
+#dialog global delete
+Drawings =
+Netlabel and netFlag =
+Texts =
+Wires =
+Board outlines =
+Footprints =
+Footprint =
+Tracks =
+
+#dialog board outline settings
+Current Size =
+Parameters =
+Start X: =
+Start Y: =
+Round Rectangular =
+radius =
+only number is allowed! =
+please input valid value of width! =
+please input valid value of height! =
+please input valid value of radius! =
+
+#cross probe
+The object you selected was not found in other documents. =
+No valid object for cross probe selected. =
+Can not probe. Refreshing the window may get it to work. =
+You need to login for this function to work. =
+
+#About Dialog
+An Easier EDA Experience =
+Version =
+BuiltDate =
+
+#Auto Router Dialog
+Auto Router Config =
+General Options =
+All Layers =
+Configure =
+Sorry, your web browser does not support this feature. Please run a modern browser. =
+Please make sure all objects with net are inside the board outline! =
+Cannot start again before previous activity is stopped =
+Please select a net =
+TrackWidth cannot be empty =
+Clearance cannot be empty =
+Router is time out. =
+Server is busy, please try again later. =
+Due to the limitation of {0}router server{1} resources, multiple routers executing concurrently are not supported, please try again later or do it manually :-) =
+Track Width is invalid =
+General Clearance is invalid =
+SMD Clearance is invalid =
+Diameter is invalid =
+Drill Diameter is invalid =
+Track width cannot be less than Design Rule Checking (DRC) setting value. =
+General Clearance cannot be less than Design Rule Checking (DRC) setting value. =
+SMD Clearance cannot be less than Design Rule Checking (DRC) setting value. =
+Hole size cannot be less than Design Rule Checking (DRC) setting value. =
+Design Rule's via diameter must be larger than via drill diameter =
+Clearance cannot be less than Design Rule Checking (DRC) setting value. =
+Not a valid PCB, please check it again =
+Previous connection must be closed =
+Network error. Please try again. =
+Router error. =
+Invalid PCB. =
+General Clearance =
+SMD Clearance =
+#Ripup Nets =
+Skip Routed Nets =
+Remove Existing Tracks =
+Real-time Display =
+Router Layers =
+Via =
+Special =
+Special Nets =
+Skip Nets =
+Router Server =
+Local =
+Cloud =
+Available =
+Unavailable =
+Checking =
+Install Local Auto Router =
+Checking local auto router server... =
+Stop Router =
+Auto Router is running... =
+
+#Left Sidebar
+Common Library =
+Basic =
+Extend =
+Design Manager =
+Library =
+Spice Library =
+Shared =
+LCSC =
+LCSC Parts =
+Supply Flag =
+US =
+EU/IEC =
+US Style =
+Resistor =
+Capacitor =
+Inductor =
+Switch/Key =
+EU/IEC Style =
+CN =
+Connector =
+Switch/Relay =
+JLCPCB =
+Recycle Bin =
+
+#Protractor
+Font Height =
+Precision =
+Protractor =
+
+#attr-pcbtext-line-width
+Only default font family supports to change font width. =
+Font is missing! You can confirm the dialog and use default font instead or cancel the dialog then upload your font and do it again. =
+
+#Common
+Owner =
+License =
+Part Pins =
+Part Properties =
+Net Pins =
+Net Ratlines =
+Add Parameter =
+Histories record =
+Create Team =
+Can't find this footprint on the server, please re-associate it. =
+The footprint name associated with the component and the footprint name on the server are inconsistent, please re-associate it. =
+The symbol pin number(s) of the component does not match the associated footprint pad number(s), please modify the symbol pin number(s) or re-associate the footprint =
+No footprint, please associate the footprint first. =
+Can't find the package =
+The path is for the project URL identify, it is unique (the identity of the project owned by the user cannot be the same) =
+It's with a letter or a number and can contain only numbers, letters, line-through, underscores, and points. It cannot be modified after saving. =
+Updating document to new format, please wait......After finishing please save your document with Ctrl + S. =
+Open at current project? =
+Please select a history to recover. =
+Be careful! When you click the "Recover" button, this sheet will be overwritten! =
+Recover =
+There is no PCB under this project, would you like to create one? =
+Please make sure that the chose Altium Designer files are saved as ASCII files. =
+Export to Altium function is currently in beta: =
+1. Please be sure to read the notice before exporting: =
+Export Altium notice and disclaimer =
+2. Please be sure to check again after export! =
+I have read and agree =
+Export to Altium =
+Please make sure that the chose Eagle files are saved in Eagle v6.0 and above. =
+Please make sure that the Kicad files were compressed as the .zip file. =
+Open Altium Designer file =
+The more information please refer at : =
+Please use Gerber file instead of exporting Altium if you are going to do PCB manufacturing. All PCB factories support the Gerber file. Is it ok to Generate the Gerber file? =
+Yes, Generate Gerber =
+No, Export Altium =
+Open Eagle file =
+Open Kicad file =
+Select file(s) =
+Append to current project? =
+Append =
+Open as new project =
+Tip: Press {0}SPACE{1} or {2}R{3} to rotate the placing object or selected object. =
+Hotkeys Setting =
+I know. Don't show this again. =
+Manufacturer Part Number can not be less than 2 characters. =
+This prefix was changed to non-subpart format. =
+Save as New Project =
+Save to Existing Project =
+Sheet Setting =
+Sheet Size =
+Pre =
+pre =
+Invalid Data =
+Others =
+You are not authorized to share this project. =
+This project is private: if you continue sharing it will be made public. =
+Modify file info =
+Please input search keyword =
+Sort Projects by =
+Date Created =
+Date Modified =
+Title =
+Ascending =
+Descending =
+Pin to Top =
+Unpin from Top =
+Collapse / Expand =
+Expand =
+Expand All =
+Collapse =
+Collapse All =
+Your file hasn't been saved, do you want to save it? =
+Don't Save =
+Library Owner: =
+verifyPkg.Value =
+State =
+Please select! =
+Route =
+Import successfully: =
+Import failed: =
+Path only contain 'a-z、A-Z、- 、 _ 、0-9'! =
+Path must begin as 'a-z、A-Z、0-9'! =
+The path length must be between 4~128 characters! =
+The title length must be between 2 ~ 128 characters. =
+Please select an owner =
+Please select obj, wrl or zip file. =
+Do you want to delete this file? =
+Add sub part success =
+Please input name and prefix! =
+Board outlines are not closed =
+Import failed! The imported files were not ASCII format, please save the files as "Advanced Schematic ascii(*.SchDoc)" or"PCB ASCII File(*.PcbDoc)" at Altium Designer first, and then import. =
+The Pins "{0}" are not snapped on the grid point! This part maybe will cause some errors in the schematic. =
+Save failed! Pin number doesn't allow repeat! As below pin number repeat: {0} =
+Check Pin =
+Failed to read {0} =
+{0} is invalid =
+{0} not found =
+Failed to execute script: =
+One or more js files not found =
+Only ONE {0} file is required =
+Extension ID is required =
+Extension ID is invalid =
+Extension ID is duplicated =
+No Result! =
+Load Error =
+loading =
+Failed to load spice data =
+Netlist =
+Tags =
+Pin Information: =
+Format incorrect, please check for the extra spaces or commas! =
+Round Radius =
+Keyword: =
+Image =
+Image copied. =
+Copy failed. =
+Copy success. =
+Image Property =
+Locked =
+Unlock All =
+Unlock =
+Lock =
+Please input pin name and pin number! =
+Left-Hand Panel =
+Right-Hand Panel =
+Update Components from Library =
+The pin number(s) can't find the same pad number(s) =
+Designator =
+Replace =
+Update failed =
+Successfully updated =
+Update failed! =
+Successfully updated! =
+Successfully updated {0} component(s)! =
+Change =
+Check Footprints =
+Network Error! =
+Find Similar Objects =
+Current Sheet =
+All Sheets =
+Kind =
+Range =
+Net Label/Net Flag/Net Port/Voltage Probe =
+Bezier/Freehand Draw =
+Arc/Pie =
+Objects Properties =
+Any =
+Same =
+Different =
+Circular =
+Expose Copper =
+"{0}" font is missing. Please add the font to the font family list. =
+Place Component =
+Delete Segment =
+Angle =
+Board Thickness =
+Layer Distance =
+Silk Screen =
+Surface Finish Color =
+Colors =
+Board Color =
+Board Side =
+Silk Screen =
+Silk Screen Color =
+Display =
+
+#Array and Clone
+Distribute Array =
+Array Type =
+Matrix Array =
+Circular Array =
+Item Rotation =
+Location =
+Items per Column =
+Items per Row =
+#Column Spacing =
+#Row Spacing =
+Spacing(Degrees) =
+Start Degree =
+Rotate Item to Match =
+Clockwise =
+Anti-Clockwise =
+Distribute by =
+Column =
+Row =
+Array Clone =
+Number of Rows =
+Number of Columns =
+Number of Copies =
+Distribute Range(Degrees) =
+
+#Theme color dialog
+BusEntry =
+Foreground =
+Common Used =
+Original Theme =
+Theme Setting =
+Change the theme colors of your design =
+White on Black =
+Black on White =
+Custom Theme =
+Color Setting =
+Apply Setting =
+Theme Setting... =
+Bus Entry =
+Symbol Graphics =
+Common Used =
+Draw =
+Sheet =
+The original theme only works for placing the new symbols. =
+Selection Highlight =
+Net Label / Port =
+
+My Theme =
+My Theme Settings =
+Apply 'Custom Theme' On =
+Creating New Schematic =
+Opening Existed Schematic =
+Please fill in all parameters! =
+Convert to Board Cutout =
+Prefix Position =
+Name Position =
+Center =
+Top =
+Bottom =
+Left =
+Right =
+Does not support multiple objects to convert to Board Cutout at the same time =
+Does not support multiple objects to convert to pad at the same time =
+Convert to Board Cutout =
+Convert to Pad =
+Convert to Component Shape =
+Combine to Continuous Track =
+Convert to Solid Region =
+Substrate =
+3D View =
+2D View =
+Pin Color =
+Name Color =
+Number Color =
+Dot =
+
+[theme]
+Sheet =
+[/theme]
+
+
+#history dialog
+[history-dlg]
+Number =
+Editor =
+[/history-dlg]
+View File History =
+Save Time =
+
+Invalid Format =
+
+#Dialog Teardrop
+Round Pad / Via =
+Rectangle / Oval / Polygon Pad =
+Applying Teardrops =
+Removing Teardrops =
+Waiting =
+Progressing... =
+
+No schematic in the project! =
+
+Move Forward =
+Move Backward =
+
+#Dialog Panelize
+V-CUT =
+Stamp Hole =
+No Panelize =
+Border and Marking =
+Create Border =
+Border Height =
+Border Position =
+Create Positioning Holes =
+Create Fiducial Marks =
+Top and Bottom =
+Left and Right =
+Stamp Hole Group - Column =
+Stamp Hole Group - Row =
+The number of rows and columns cannot be set to 1 simultaneously =
+When panelize number is 1 x 1, you need to enable the "Create Boarder" =
+
+#edit path point
+[editPathPoints-dlg]
+Arc(R) =
+Type =
+Action =
+add before =
+add after =
+delete =
+[/editPathPoints-dlg]
+
+#edit polygon point
+[editPolygonPoints-dlg]
+Action =
+add before =
+add after =
+delete =
+[/editPolygonPoints-dlg]
+You have unconfirmed edit! =
+Invalid edit! =
+
+#Dialog PCB Information
+PCB Information... =
+Signal Layers =
+None Signal Layers =
+Pads =
+Surface Pads =
+Plated Through-hole Pads =
+None Plated Through-hole Pads =
+Holes =
+Vias =
+Length of Tracks =
+Copper Areas =
+
+#Differential Pair Routing
+Differential Pair Routing =
+Differential Pair Rule Setting =
+Please input track width =
+Please input clearance =
+Routing Rules =
+
+#Route Length Tuning
+Track Length Tuning... =
+Tracks with different net or non-track found in current targets. =
+Please select the signal tracks to be tuning. =
+The total length exceeds the Design Rule Checking (DRC) constraint, continue ? =
+45° Angle =
+90° Angle =
+DRC Track Length : =
+Current Length : =
+Additional Length : =
+Target Length: =
+Current Length: =
+Adjust Type =
+Double Side =
+Single Side =
+
+can not connect to the server =
+
+#Dialog Copper Area Manager
+Copper Area Manager... =
+Copper Area Manager =
+Order =
+Name =
+Layer =
+Color =
+Net =
+Move Up =
+Move Down =
+Apply =
+Cancel =
+Copper Area do not allow self-intersection! =
+No copper area! =
+#Dialog report error
+Datasheet =
+Verification =
+Symbol =
+Pad Number =
+Pad Size =
+Remark =
+Correct =
+Incorrect =
+Submit =
+Tip =
+Please select one component =
+Location X =
+Location Y =
+Your current browser version may not support some features. Please use the latest version of Chrome or Firefox, or try the desktop client. =
+EasyEDA Client =
+JLCEDA Client =
+Chrome =
+FireFox =
+New Version =
+Switch Version =
+Members =
+Update Time =
+Editor =
+Current Version =
+Latest Version =
+Please select a different version to switch; If you want to edit different version in the same time, please open them in different browsers. =
+3D Model =
+Board Side =
+Display =
+Copper =
+Create New Version =
+Create new version success! =
+Version Management =
+Switch success! =
+Please close current version's documents first! =
+Creator =
+creator =
+Create Time =
+Fail to connect to server! Please check your internet connection status and try again! =
+Spice Number =
+Create =
+3D Outline =
+Cannot create the slot hole via the board outline, please use the following methods: =
+Use the solid region and set its type as Board Cutout =
+Select a Track/Arc, right-click to use the "Convert to Board Cutout" =
+Select all the closed Tracks/Arcs, right-click to use the "Convert to Board Cutout" =
+The more information please refer at =
+Save "{0}" success! =
+Save "{0}" failed! =
+Invalid Size =
+Processing =
+NetFlag GND =
+NetFlag VCC =
+NetFlag +5v =
+No Useful Data! =
+SVG Preview =
+Prefix contains not supported charater(s) ! =
+Name contains not supported charater(s) ! =
+Create Grid Path =
+Please Input Name =
+Building Copper Area =
+Processing =
+Opening File =
+Update from Library =
+Update Footprint =
+Update 3D Model =
+Find footprint(s) have been updated, do you want to update? =
+3D File: =
+Model List =
+Are you sure merge net {0} and net {1}? =
+Display Footprint =
+Display Footprint Name While Placing Component =
+Annotate Prefix Automatically After Placing Component =
+Program Error, Please Contact Technical Support! =
+Search Engine =
+Keyword to Filter =
+Normal Mode =
+Expand Mode =
+3D Model Manager =
+3D Model Preview =
+3D Model =
+3DModel =
+Document =
+
+[pcblayer]
+3DModel =
+Document =
+[/pcblayer]
+
+Adjustment =
+View Larger Image =
+Previous =
+Previous Image =
+Next Image =
+Notice: For reference only, please refer to the real product =
+It's under designing, please wait. =
+The width of track/arc/circle cannot be less than 0.1mil! =
+Clone success ! =
+Footprint Naming Reference =
+3D Model Manager =
+Will jump to the Lichuang open source hardware platform (OSHWHub.com) to improve the information and share. Whether to continue? =
+Will jump to the EasyEDA open source hardware platform (OSHWLab.com) to improve the information and share. Whether to continue? =
+The project content page will open. After adding a description and setting the project to public, you can click the share button to get the share link. =
+This project is not public, can not view homepage! =
+
+[grid]
+None =
+[/grid]
+
+#lib verify and mounted
+This component is verified =
+This component is unmounted =
+
+#find component
+Find Next =
+Pin not found =
+Pad not found =
+Object not found =
+
+#offset Elements
+Offset X =
+Offset Y =
+Offset =
+Absolute Offset =
+Relative Offset =
+Absolute Offset... =
+Relative Offset... =
+Reference Point X =
+Reference Point Y =
+
+#Inner Plane layer
+Rebuild Plane =
+PlaneZone Properties =
+Change to a plane layer is not allowed during track routing. =
+#pcblib rect
+Fill =
+Fill Type =
+[PlaneZone]
+Solid =
+[/PlaneZone]
+
+Solid Region do not allow self-intersection! =
+
+The prefix or name or text too far away from the footprint, if you don't want it to show up please make it hidden. =
+The prefixes are not allowed to repeat! =
+Save failed! The origin of the canvas is not in the graphics! Whether to set the origin automatically? =
+The origin of the canvas has been set in the graphics now, you can save again. =
+Backup Project =
+Open Project Directory =
+
+{0} items updated =
+
+The current file {0} has an updated version. Do you want to overwrite it? If you want to open the latest version, please close the current file and reopen it. =
+Yes, Overwrite It =
+No, Keep It =
+
+Download Client =
+
+Search tutorial、open source projects etc. =
+
+Go to LCSC and search for =
+Go to LCSC =
+
+Hide Ratline Layer and Keep the Component Prefix When Paste Objects =
+
+ALL.layer =
+Copper.layer =
+Non-Copper.layer =
+Other.layer =
+
+Please enter at least 2 characters! =
+View Datasheet =
+View Datasheet... =
+
+The corresponding package or network could not be found in the currently open PCB document =
+delete fail =
+
+[crashRecovery]
+Libraries =
+[/crashRecovery]
+Canvas origin anomaly! =
+
+Component's Name =
+Component's Prefix =
+Component's Footprint =
+
+[findlib]
+Clear =
+Apply Filters =
+Result =
+Place =
+Prev =
+Next =
+Total {count} Count =
+About =
+Items =
+Apply New Part =
+No Part Yet =
+[/findlib]
+
+Object =
+Layers and Objects =
+All =
+
+Add custom =
+
+Connections =
+Attempted: =
+Completed: =
+Failed: =
+Total Vias: =
+
+Please confirm moving option =
+Only this pad =
+For this component =
+View Owner =
+View Detail =
+
+
+#place batch vias
+Place Vias =
+Placing Vias =
+Removing Vias =
+Batch Vias for Copper =
+Add/Remove Vias =
+Diameter =
+Drill Diameter =
+Column Spacing =
+Row Spacing =
+Multiple vias have been placed, do you want to rebuild the copper area? =
+Remove vias finish, do you want to rebuild the copper area? =
+The width of track/arc/circle cannot be less than 0.051mm/2mil/0.002inch! =
+Save fail! Please try again! =
+Please select a copper outline =
+Can't find copper area at other layers, please add the copper area with the same net at other layer first. =
+
+Add favorite success! =
+Remove favorite success! =
+Remove favorite failed! =
+Whether if remove favorite? =
+Split by ';' for multi tags =
+
+This size is the determined size! =
+The associated pad has been locked =
+Split by space or , for multi tags =
+
+Rotation X =
+Rotation Y =
+Rotation Z =
+
+Some fields are filled invalid data =
+start time should be earlier than stop time =
+Number of points should be less than 100 in octave variation =
+Start frequency should be less than stop frequency. The suffix meg stands for Mega,m stands for milli =
+Get historical records fail! =
+This 3D model didn't create the outlines successfully, please import it again or contact with us. =
+There is No Tag! =
+Assign successful! =
+Found footprint's pad number doesn't match the schematic component's pin number, please correct the pad number and try again! =
+Update Property =
+Update Properties =
+Please fill in at least 5 words. =
+Mouse hovering over the track to highlight the entire network =
+Net Highlighting While Cursor Hover the Track =
+When circle set as "Yes", the Pin length must be more than 6 =
+Hi, I found a problem of your library, this library seems incorrect.\ntitle:{title}\nType:{type}\nlink:{link}\n{content}\nThank you! =
+
+Logout fail! Please try again! =
+Logout success! We look forward you to use JLCEDA again! =
+Logout success! We look forward you to use EasyEDA again! =
+Click to Preview 3D =
+[logoutDialog]
+Logout =
+[/logoutDialog]
+
+[findlibTag]
+All =
+[/findlibTag]
+
+Export Pick and Place File =
+Mirror the bottom components' coordinate (JLCPCB doesn't need) =
+Mirror coordinate Y =
+Mirror coordinate X =
+Work Space =
+Include panelized components' coordinates(JLCPCB doesn't need) =
+Personal Workspace =
+Work Space - {name} =
+Work Space - Personal =
+Cloning =
+
+Project Owner =
+Clone Project =
+Homepage =
+Apply for Education Edition =
+Load Organization failed =
+Joined =
+Favorite =
+This operation will unfavorite this project, do you want to continue? =
+View Homepage =
+Private Project =
+3-7 days =
+Close Tab =
+Close Other Tabs =
+Close All Tabs =
+Open in New Window =
+Cursor Snap to Component's Origin or Pad Center While Dragging Component =
+Undefined =
+Input =
+Model Unit =
+File Unit =
+This part contains subparts, please make sure you have checked other subparts before reporting error, do you want to continue? =
+
+[saveAs]
+Power =
+[/saveAs]
+
+Assign LCSC Part# =
+Unexpected error while converting. Perhaps unsupported file type or program bug. =
+Found duplicated component IDs, please click "OK" to re-assign component ID automatically, and then save the document and try again. =
+
+Format =
+View =
+Design =
+Simulation =
+Advanced =
+Fabrication =
+Check DRC =
+Simulation Setting =
+BOM =
+PCB Fabrication File(Gerber) =
+Pick and Place File =
+Parts Order =
+PCB Order =
+One-click Order Parts =
+One-click Order PCB/SMT =
+JLCPCB Layout Service =
+SIM =
+STD =
+WaveForm =
+
+Place Module =
+Please enter identification letters: =
+Only support English letters, up to 5. =
+
+Exist doesn't annotate prefix component(s) in the module, please edit and annotate the unique prefix(s) for component(s) first. =
+Opening =
+
+Also update track's net (Only applies to circumstance under which prefix/netlabel changes and no component/wire is added or removed) =
+
+#desktop client error feedback
+Cannot open online documents on Project Offline mode. =
+
+Please select a project =
+Opened Projects =
+Open Project =
+Close Project =
+Open All Projects =
+Close All Projects =
+Select Owner =
+Select Folder =
+Select Owner or Folder =
+Select Project =
+Folder =
+New Folder =
+New Sub Folder =
+Delete Folder =
+Move Project =
+Move Folder =
+#Rename Folder
+Please input the folder name =
+Invalid folder name =
+Are you sure to delete this folder? =
+All projects in this folder will be moved to the root directory. =
+Create new folder successfully =
+Failed to create new folder =
+Delete folder successfully =
+Failed to delete folder =
+Rename folder successfully =
+Failed to rename folder =
+Move folder successfully =
+Failed to move folder =
+Move project successfully =
+Failed to move project =
+The folder depth must not exceed {0} levels =
+Failed to add project to folder =
+
+Doesn't support SMT =
+JLCPCB SMT Stock: {0} =
+
+Reset failed! There are duplicate component prefixes in the current schematic: =
+Reset failed! There are duplicate component prefixes in the current PCB: =
+Please modify the component prefixes first to ensure that the component prefix is unique. =
+
+JLCEDA(YALONG Edition) - A Simple and Powerful Electronic Circuit Design Tool =
+JLCEDA(Standard) - A Simple and Powerful Electronic Circuit Design Tool =
+EasyEDA(Standard) - A Simple and Powerful Electronic Circuit Design Tool =
+
+#Dialog for Package Custom Data
+Please input the data title =
+Data title duplicated =
+Cannot be more than {0} characters! =
+Only latin alphabets, digits, underscore(_) and hyphen(-) are allowed. =
+Invalid value of item {0} =
+Update DFM =
+Custom DFM Data =
+Saved custom data successfully! =
+Save custom data failed! =
+Will replace the graphics and custom data of current document, after imported please adjust the 3D model. Continue or not? =
+Open footprint "Custom Data" dialog =
+
+#Create lead shape
+Create Lead Shape =
+Base on Pad Center =
+Base on Canvas Origin =
+Lead shape =
+Footprint Type =
+From pad shape =
+Lead length =
+Lead width =
+Lead diameter =
+Scaling ratio =
+Leads creating direction =
+Auto =
+Horizontal =
+Vertical =
+Canvas origin to lead edge =
+Canvas origin to body edge =
+Lead soldering length =
+Lead soldering part diameter =
+Component shape object doesn't overlap lead shape object, please check carefully. =
+The solder mask expansion of pads ({0},{1}) has a small clearance(less than 0.08mm), it will cause the soldering too short, please modify. =
+The paste mask expansion or custom paste mask layer objects of pads ({0},{1}) has a small clearance(less than 0.15mm), it will cause the stencil to create fail, please modify. =
+System footprint must have pad number 1 or A1, please modify the pad number. =
+System footprint doesn't allow two or more pad numbers are 1 or A1, please modify the pad number. =
+Document layer has circle object, but jlcPara's polarity is 0, please check the Custom Data. =
+There are exist repeat pad numbers: {padNumber}, please check, if it is correct please ignore this. =
+Can't find the circle at the component marking layer, or this circle doesn't at the same quadrant with the 1st pad, please check whether it is correct. =
+This footprint is LED, CASE or DIO type, please check if need to draw the polarity marking(or special polarity marking), if exits polarity marking please ignore this message. =
+This footprint is DIP type, please check if haven't place multi-layer pads. =
+This footprint is SMD type, please check if haven't placed single-layer pads. =
+
+ROUND =
+RECTANGLE =
+OCTAGONAL =
+Upper left =
+Lower left =
+Center of Pads =
+First Pin =
+Package Name =
+Pins Number =
+Rows Of Pin =
+Columns Of Pin =
+Polarity =
+Pad Shape =
+Body Diameter =
+Lead Span =
+Lead Vertical Span =
+Body Length =
+Body Width =
+Pin Diameter =
+Pin Length =
+Pin Height =
+Pin Solid Width =
+Pin Solid Height =
+Pin Spacing =
+Pin Horizontal Spacing =
+Pin Vertical Spacing =
+ThermalPad =
+Pad Expansion =
+Custom PasteMask =
+Fabrication Tolerance =
+Placement Tolerance =
+FirstPin Position =
+Package Origin =
+Expansion Size =
+Corner =
+Angle =
+Fillet =
+Chamfer =
+Update Preview =
+Number of pins (left and right) =
+Number of pins (up and down) =
+Reference Use Cases =
+Package Type =
+Capacitance =
+Resistance =
+Bidirectional Diode =
+Inductance =
+Crystal Oscillator =
+Diode =
+LED =
+Fuse =
+Entity height =
+Lead Overhang =
+Lead Thickness =
+Unknown mistake =
+Has ThermalVias =
+Polar Capacitance =
+
+Create Component Marking =
+Create component marking successfully! =
+No elements on component shape layer! =
+No elements on lead shape layer! =
+No pad of number 1 or A1, please modify the pad number. =
+Save failed! Component marking circle is at the axis. Do you want to recreate the component marking? =
+If autoroute fail, you can export the autoroute file(DSN) to third-party autorouter tool(Such as: FreeRouting, Konekt Electra, Eremex TopoR etc.), and export the session file(SES) after finished autoroute, and then import to PCB. =
+Auto route failed! Found abnormal pad(s) data, please modify the pad width and height: =
+Select Properties =
+Combine the same parts' prefixes in one row =
+Please check at least one item! =
+Pins =
+Check component latest version when open schematic =
+Only show updated components =
+Note: When a PCB is Import Changes, the PCB is updated according to the footprint version to which the schematic is bound. =
+Doesn't support to import the binary format DXF, please import the ASCII format DXF. =
+
+Find System Similar Footprint =
+Download fingerprint data =
+Found similar footprints at system library, it is recommended to use them first. =
+Copy Title =
+Check system similar footprint =
+Can't find the Similar Footprint =
+Search failed! =
+No package information! =
+Find Parameters =
+Find Results =
+
+Bill of material(BOM) uploaded finish, please click "OK" to continue. =
+Bill of material(BOM) upload failed! =
+
+All pads =
+All holes =
+Single layer pads =
+Multi-layer pads =
+Same X pads =
+Same Y pads =
+Same Y and clearance pads =
+Same X and clearance pads =
+Same X and clearance pads' clearance =
+Same Y and clearance pads' clearance =
+Pad's hole diameter(max) =
+Pad's hole diameter(min) =
+Pad's hole diameter(aver) =
+
+Try Pro Edition =
+
+Generate Solid Region by Objects Outline =
+Generate Polygon Pad by Objects Outline =
+Select the objects that cannot be generated =
+
+Please compress schematic and PCB as a zip file and then import it, if you only import the schematic you need to binding with the footprint manually. =
+Please compress schematic and PCB in ASCII format as a zip file and then import it, if you only import the schematic you need to binding with the footprint manually. =
+Import failed! The imported files were not ASCII format, please save the files as "Advanced Schematic ascii(*.SchDoc)" or"PCB ASCII File(*.PcbDoc)" at Altium Designer first, and then import. =
+Please save the files as "Advanced Schematic ascii(*.SchDoc)" or"PCB ASCII File(*.PcbDoc)" at Altium Designer first, and then import. =
+The PCB text will use the editor new font family, the text maybe will appear a little excursion. =
+Because of different file format and element design, the imported element may have some differences, please check carefully. The more information please refer the tutorials. =
+EasyEDA is not responsible for any losses caused by format conversion differences, if you do not agree, please do not import. =
+Please make sure the EAGLE file is saved in EAGLE v6.0 and higher version. =
+Please compress schematic and PCB as a zip file by KiCad5 and then import it, if you only import the schematic you need to binding with the footprint manually. =
+Please make sure the Protel file is exported as ASCII format file. =
+Please compress the schematic and corresponding symbols as a zip file and then import it. =
+Tips =
+
+Exists incomplete connection =
+Found that the board has incomplete connection, please check the nets and ratlines =
+
+Please save the files as "Advanced Schematic ascii(*.SchDoc)" or"PCB ASCII File(*.PcbDoc)" at Altium Designer first, and then import. =
+Tips =
+Exists incomplete connection =
+Found that the board has incomplete connection, please check the nets and ratlines =
+
+You are not logged in or the login status is invalid, please login and try again. =
+
+Display Board Cutout =
+
+Apply New Part =
+Apply New Parts for Free =
+
+Migrate to Pro Edition... =
+Recommended migrate the Std edition projects to the Pro edition, the Pro edition is more features powerful, and more more smoother. How to migrate: =
+1. Download and login the Pro edition. =
+2. Via: Top Menu - File - Migrate Standard... =
+3. Select the projects or libraries to migrate. =
+4. If your projects are saved at local, you can compress the schematic and PCB as a zip file, and then import it to the Pro edition. Via: Top Menu - File - Import - EasyEDA(Standard). =
+Open Pro Edition =
+Feedback =
+
+Datasheet Extract Wizard =
+Or double click here to add image(<5MB) =
+Pins Information =
+Next Step =
+Drop graphic files here =
+Please drag graphic file =
+Click to cancel loading =
+Use rolling wheels to zoom preview screen =
+Please add pin information first =
+The current environment does not support the paste content from the clipboard =
+The current environment does not read the permissions of the clipboard =
+Please copy a picture and paste the paste =
+Image compression failure =
+Please drag or paste image at here =
+Pins Data without extraction =
+Please make sure the editor is connect with internet, the extraction need some time, please wait a while =
+Add image failed, please add an image which small than 5MB =
+The image size cannot be more than 2 MB =
+Image Type =
+SOP type =
+QFN type =
+Table type =
+Clear =
+Side =
+No permission, please contact project manager to enable permission, after enable please refresh the project list and try again =
+During the exam, cross -engineering paste =
+The exam has ended and cannot be edited =
+Exam remaining time =
+Exam is over =
+The exam is over and the test papers are being corrected =
+Quit out =
+The current account does not belong to the current engineering member and cannot create a new documentation =
+
+The generated pads size will little bigger than input size, good for welding =
+
+The project has been published, but after editing, the project becomes unpublished. Do you want to continue? =
+You are trying to update components from library, please check the difference before update, if the flipped(mirrored) component(s) on the canvas updated, they will be reset to original status, please notice. Do you want to continue? =
+{value}{unit-name}, need more than DRC({drc-value}{unit-name}) =
+{value}{unit-name}, need less than DRC({drc-value}{unit-name}) =
+Need more than DRC({drc-value}{unit-name}) =
+Need less than DRC({drc-value}{unit-name}) =
+Incomplete Connection =
+Found some objects are far away from board outline, whether if move them at board bottom right corner to good to adjust? =
+
+Auto Pin Placement =
