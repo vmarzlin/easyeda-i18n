@@ -76,3 +76,6 @@ Slovenčina (Slovak) = Slovenčina (Slovak)
 
 # ui_data_bg.txt
 Български (Bulgarian) = Български (Bulgarian)
+
+# ui_data_el.txt
+Ελληνικά (Greek) = Ελληνικά (Greek)
